@@ -2,8 +2,8 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=mysql1123.ixwebhosting.com;dbname=BBBn9b6_layolanda',
-    'username' => 'BBBn9b6_dba',
-    'password' => 'Layoli2017',
+    'dsn' => 'mysql:host=localhost;dbname=layolanda',
+    'username' => 'homestead',
+    'password' => 'secret',
     'charset' => 'utf8',
 ];

@@ -3,6 +3,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.7.3] - 2018-04-04
+### Fixed
+ - Fix invalid column name in findOne() condition #118
+
+## [1.7.2] - 2018-02-23
+### Minor
+ - Restrict version constraints for Yii dependencies in composer.json #116
+
+## [1.7.1] - 2017-10-30
+### Fixed
+ - Fix url creation in translate action #108
+ - Fix incorrect md5 hash for non-English characters in javascripts #114
+
 ## [1.7.0] - 2017-04-30
 ### Added
  - Allow to override default scanners via module configuration #87
@@ -72,6 +85,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Fixed
  - Round error in translation statistic
 
+[1.7.3]: https://github.com/lajax/yii2-translate-manager/compare/1.7.2...1.7.3
+[1.7.2]: https://github.com/lajax/yii2-translate-manager/compare/1.7.1...1.7.2
+[1.7.1]: https://github.com/lajax/yii2-translate-manager/compare/1.7.0...1.7.1
 [1.7.0]: https://github.com/lajax/yii2-translate-manager/compare/1.6.0...1.7.0
 [1.6.0]: https://github.com/lajax/yii2-translate-manager/compare/1.5.4...1.6.0
 [1.5.4]: https://github.com/lajax/yii2-translate-manager/compare/1.5.3...1.5.4
