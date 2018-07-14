@@ -1,0 +1,2243 @@
+# Webalizer V2.20-01 Incremental Data - 04/06/2018 02:05:33
+2018 4 6 2 5 33
+6388 3822 364 375 59 71 324236213 1617 348 0
+9 3 581 1 6
+793 281 19307418 81 143 58
+512 381 34964728 98 136 82
+1292 884 90639460 124 268 67
+1300 743 52406493 93 375 62
+2469 1528 126603723 85 690 75
+22 5 314391 9 5 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+75 38 2668184 20
+97 62 7300322 21
+62 14 610590 17
+41 13 889522 10
+46 18 766702 18
+41 17 1671689 10
+32 9 430853 7
+146 71 6359960 13
+140 110 6379467 26
+341 239 26472367 68
+208 107 4248877 109
+1085 763 62128118 226
+250 146 19320298 31
+190 139 13488999 56
+206 132 9551049 51
+170 127 9428895 56
+167 86 7340722 29
+354 285 27433768 115
+568 352 23787225 281
+514 273 21708604 125
+754 405 31361709 176
+224 63 8992539 35
+269 201 18151583 63
+408 152 13744171 54
+0
+0
+0
+3822
+0
+0
+0
+0
+0
+9
+0
+168
+192
+0
+174
+0
+0
+838
+0
+0
+0
+764
+0
+394
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+27
+0
+0
+0
+0
+0
+# -urls- 
+/web/
+0 148 0 2518991 9 8
+/web/assets/1d22a78/css/typeahead.css
+0 34 0 220320 0 0
+/web/images/logo.svg
+0 58 0 300006 0 0
+/web/images/products/2018_02_19_12_43_44_Calentador 01_ Layolanda_ Antiguedades PG.jpg
+0 1 132473648 0 0 0
+/web/images/products/2018_02_06_18_01_41_Sopera_ Layolanda_ Antiguedades PD3.jpg
+0 1 132468768 166078 0 0
+/web/images/products/2018_01_24_13_51_12_Layolanda _ Varoshilov Bazante _ Ciudad PD4.jpg
+0 1 0 162892 0 0
+/web/images/products/2018_01_18_18_01_37_Alfonso Bonifacio _ Patatas _ Layolanda _ PD1.jpg
+0 1 132466432 0 0 0
+/web/images/lupa.svg
+0 35 0 35385 0 0
+/web/images/products/2018_03_16_18_58_37_Jorge Luna _ Layolanda Galápagos 01.jpg
+0 21 0 1660106 0 0
+/web/js/imagesloaded.pkgd.js
+0 33 0 406956 0 0
+/web/images/products/2018_03_15_12_20_40_HojaMariaEugeniaFialloColibri001.jpg
+0 10 0 609308 0 0
+/
+0 159 0 274680 95 22
+/web/images/products/2018_01_24_14_47_12_Layolanda _ Sara Sánchez PD1.jpg
+0 11 0 1683690 0 0
+/web/images/products/2018_01_18_21_10_57_Casimir Laurent _ ST _ Layolanda _ PG.jpg
+0 2 132465408 401660 0 0
+/web/images/products/2018_03_16_17_07_17_Blanca Suarez _ Layolanda _ 01.jpg
+0 3 0 169020 0 0
+/web/assets/a999f4dc/yii.gridView.js
+0 2 0 18620 0 0
+/web/images/products/2018_03_15_19_38_40_Campana3MariaEugeniaFialloColibri006.jpg
+0 3 0 274134 0 0
+/web/assets/7ee0cb3e/js/bootstrap-datepicker.js
+0 2 0 117068 0 0
+/web/images/products/2018_03_16_18_31_51_Jorge Luna _ Layolanda Galápagos 04 copia.jpg
+0 18 0 2053488 0 0
+/web/images/products/2018_01_24_14_20_36_Layolanda Jose Carreño ST G.jpg
+0 9 0 1533288 0 0
+/web/images/products/2018_01_24_14_33_57_Layolanda _ José Luis Cuevas _ La renardière _ PG2.jpg
+0 9 0 1544520 0 0
+/web/images/products/2018_03_15_12_59_12_MariaEugeniaFialloColibri001.jpg
+0 4 0 128844 0 0
+/web/images/products/2018_01_18_21_53_26_Layolanda _ Gonzalo Endara Crow _ Nacimiento _ PG.jpg
+0 2 0 405738 0 0
+/favicon-32x32.png
+0 20 0 24180 0 0
+/web/images/bag1.svg
+0 35 0 42350 0 0
+/web/assets/217aea76/js/dialog.js
+0 2 0 4764 0 0
+/web/images/products/2018_01_24_13_51_12_Layolanda _ Varoshilov Bazante _ Ciudad PD3.jpg
+0 1 0 160720 0 0
+/web/assets/e8bf0d60/fonts/glyphicons-halflings-regular.woff2
+0 2 0 36056 0 0
+/images/ixcp.css
+0 5 0 31000 0 0
+/web/images/products/2018_01_24_14_03_35_Topor 3.jpg
+0 9 0 2243576 0 0
+/web/images/twitter.png
+0 24 0 37656 0 0
+/web/images/parallax2.jpg
+0 33 0 17936736 0 0
+/web/assets/a999f4dc/yii.js
+0 35 0 698460 0 0
+/web/assets/b076fe10/css/kv-export-columns.css
+0 2 0 748 0 0
+/web/images/products/2018_01_18_21_25_39_Layolanda _ Enrique Tábara _ Nocturno _ PG.jpg
+0 1 0 251924 0 0
+/web/site/artist
+0 31 0 572311 25 9
+/web/assets/4397adff/plugins/print/plugin.js
+0 2 0 7438 0 0
+/web/images/products/2018_03_15_19_38_40_Campana3MariaEugeniaFialloColibri005.jpg
+0 8 0 409234 0 0
+/web/images/products/2018_02_19_17_09_23_Cristo_ Layolanda_ Antiguedades PD2.jpg
+0 1 132471648 185145 0 0
+/web/images/products/2018_03_16_19_25_54_layolanda.tortuga014.colecciongalapagos.jorgeluna.jpg
+0 1 0 81219 0 0
+/web/images/products/2018_02_07_19_16_44_Ulu circular _ Antonio Carrasco pg.jpg
+0 29 0 6169905 0 0
+/web/images/products/2018_02_06_17_27_38_Layolanda _ Antonio Carrasco _ Quesero Corto PG2 .jpg
+0 1 0 95841 0 0
+/web/images/products/2018_01_24_15_32_41_Oswlado Viteri _ ST _ GeneralPD.jpg
+0 11 0 5859530 0 0
+/web/images/products/2018_01_18_21_10_58_Casimir Laurent _ ST _ Layolanda _ PD1.jpg
+0 5 0 715376 0 0
+/web/images/products/2018_01_24_14_23_24_Layolanda _Jan Scheuder _ Desnudo Femenino.jpg
+0 3 0 297228 0 0
+/web/images/products/2018_01_18_21_53_26_Layolanda _ Gonzalo Endara Crow _ Nacimiento _ PD3.jpg
+0 4 0 660176 0 0
+/web/images/products/2018_02_06_18_07_59_cubiertos pg layolanda pg3.jpg
+0 1 0 92591 0 0
+/web/images/products/2018_03_29_16_41_47_Tortuga Jorje Luna Galapagos Layolanda.jpg
+0 4 0 348268 0 0
+/web/images/products/2018_02_07_19_16_42_Ulu circular _ Antonio Carrasco 3.jpg
+0 1 132472000 108984 0 0
+/web/images/products/2018_03_29_16_34_38_tortuga016.jpg
+0 5 0 305346 0 0
+/web/images/products/2018_01_24_13_51_12_Layolanda _ Varoshilov Bazante _ Ciudad PD2.jpg
+0 10 0 1520847 0 0
+/web/images/products/2018_03_16_19_25_54_layolanda.tortuga016.colecciongalapagos.jorgeluna.jpg
+0 2 0 206440 0 0
+/web/images/products/2018_03_20_11_06_25_layolanda.tortugamarina2.colecciongalapagos.jorgeluna.jpg
+0 1 0 101013 0 0
+/web/images/products/2018_01_29_18_53_56_Layolanda _ Alberto Guzmán _ 4.jpg
+0 3 0 384999 0 0
+/web/images/products/2018_02_06_18_14_03_daga layolanda 2.jpg
+0 7 0 654102 0 0
+/web/images/products/2018_01_24_15_21_47_Alechinski 1.jpg
+0 12 0 1551704 0 0
+/web/images/artist/2018_03_13_14_21_29_sarasanches.jpg
+0 1 0 14228 0 0
+/web/assets/7ee0cb3e/js/datepicker-kv.js
+0 2 0 3390 0 0
+/web/images/products/2018_01_18_22_04_25_Enrique Tábara _ ST _ Layolanda _ PD2.jpg
+0 5 0 884780 0 0
+/web/images/products/2018_03_16_18_39_17_Jorge Luna _ Layolanda Galápagos 02.jpg
+0 3 0 327063 0 0
+/web/assets/4397adff/plugins/contextmenu/plugin.js
+0 2 0 47958 0 0
+/web/images/products/2018_02_07_19_26_06_Layolanda _ Antonio Carrasco _ General .jpg
+0 2 132473104 279158 0 0
+/web/images/products/2018_01_18_21_53_26_Layolanda _ Gonzalo Endara Crow _ Nacimiento _ PD2.jpg
+0 1 0 175936 0 0
+/web/admin/product-has-mesure-type/view
+0 41 132478960 147581 0 0
+/web/images/products/2018_03_16_17_07_17_Blanca Suarez _ Layolanda _ 03 copia.jpg
+0 3 0 202632 0 0
+/manifest.json
+0 8 0 5760 0 0
+/web/images/products/2018_03_20_10_49_33_Blanca Suarez _ Layolanda _ 03.jpg
+0 9 0 739809 0 0
+/web/images/products/2018_02_06_15_03_40_Layolanda _ Antonio Carrasco _ PD1 Jorga de mantequillos.jpg
+0 3 132556160 205857 0 0
+/web/admin
+0 5 0 27585 1 1
+/web/images/pinterest.png
+0 24 0 37944 0 0
+/web/images/products/2018_02_07_19_16_42_Ulu circular _ Antonio Carrasco 2.jpg
+0 1 132472608 111593 0 0
+/web/images/products/2018_03_15_18_29_09_SilfoMariaEugeniaFialloColibri005.jpg
+0 4 0 235436 0 0
+/web/images/products/2018_03_29_16_34_38_tortuga015.jpg
+0 1 0 81430 0 0
+/web/js/masonry.pkgd.min.js
+0 34 0 802434 0 0
+/web/js/bootstrap.min.js
+0 32 0 1185440 0 0
+/web/images/products/2018_02_07_16_44_32_bandeja layolanda 2 2.jpg
+0 1 0 128501 0 0
+/web/images/products/2018_03_20_11_06_25_layolanda.tortugamarina.colecciongalapagos.jorgeluna.jpg
+0 5 0 494514 0 0
+/apple-icon-180x180.png
+0 4 0 12932 0 0
+/web/assets/4397adff/plugins/link/plugin.js
+0 2 0 64158 0 0
+/web/assets/1d22a78/css/typeahead-kv.css
+0 35 0 25602 0 0
+/web/images/products/2018_02_06_17_34_30_Layolanda _ Antonio Carrasco _ Ulito Picar PD.jpg
+0 1 132657328 215321 0 0
+/web/images/products/2018_02_06_18_14_01_daga layolanda.jpg
+0 1 0 74922 0 0
+/web/images/products/2018_03_16_18_39_17_Jorge Luna _ Layolanda Galápagos 01.jpg
+0 3 0 303051 0 0
+/web/images/products/2018_01_24_14_04_12_Layolanda _ Oswaldo Guayasamín _ Cabeza de Judío .jpg
+0 3 0 324963 0 0
+/web/images/products/2018_01_18_21_53_26_Layolanda _ Gonzalo Endara Crow _ Nacimiento _ PD1.jpg
+0 6 0 1023816 0 0
+/web/assets/4397adff/tinymce.js
+0 2 0 3367024 0 0
+/web/images/products/2018_01_24_15_18_42_Alechinski 2.jpg
+0 11 0 1067190 0 0
+/web/images/artist/2018_03_13_14_39_08_mariaeugeniafiallo.jpg
+0 1 0 38115 0 0
+/web/images/products/2018_03_16_19_08_14_maceta004.jpg
+0 3 0 268134 0 0
+/web/images/products/2018_03_20_11_06_25_layolanda.tortugamarina.colecciongalapos.jorgeluna010.jpg
+0 1 0 91481 0 0
+/web/images/products/2018_03_20_10_49_33_Blanca Suarez _ Layolanda _ 02_.jpg
+0 3 0 238755 0 0
+/web/images/JorgeLuna.jpg
+0 4 0 623859 0 0
+/web/images/products/2018_03_15_18_29_09_SilfoMariaEugeniaFialloColibri004.jpg
+0 5 0 319470 0 0
+/web/images/artist/avatar.png
+0 2 0 3776 0 0
+/web/images/products/2018_02_06_17_37_27_Layolanda _ Antonio Carrasco _ Ulu32 .jpg
+0 1 0 110552 0 0
+/web/images/en1.svg
+0 1 0 1947 0 0
+/web/assets/4397adff/skins/lightgray/skin.min.css
+0 2 0 78808 0 0
+/web/images/products/2018_03_29_16_34_38_tortuga014.jpg
+0 1 0 81219 0 0
+/web/images/products/2018_02_06_18_01_44_Sopera_ Layolanda_ Antiguedades PD1.jpg
+0 1 132469440 0 0 0
+/web/images/products/2018_03_15_19_38_39_Campana3MariaEugeniaFialloColibri001.jpg
+0 3 0 152118 0 0
+/web/images/products/2018_01_24_13_51_13_Layolanda _ Varoshilov Bazante _ Ciudad PG.jpg
+0 1 132658976 235997 0 0
+/web/images/products/2018_03_15_18_30_49_003 MariaEugeniaFialloColibri copia.jpg
+0 7 0 345376 0 0
+/web/images/products/2018_01_18_18_08_40_Alberto Gironella _ ST _ Layolanda _ PG _ 72dpi.jpg
+0 1 132466976 0 0 0
+/web/images/products/2018_02_06_15_03_40_Layolanda _ Antonio Carrasco _ PD2 Jorga de mantequillos.jpg
+0 3 132555968 225135 0 0
+/web/images/products/2018_02_19_12_29_31_layolanda candelabros 001 antigüedades.jpg
+0 8 0 660424 0 0
+/web/images/products/2018_01_24_14_47_12_Layolanda _ Sara Sánchez PG.jpg
+0 1 0 136839 0 0
+/web/images/products/2018_02_06_18_08_01_cubiertos pg layolanda.jpg
+0 1 0 96410 0 0
+/web/images/products/2018_02_07_19_26_05_Layolanda _ Antonio Carrasco _ set 3.jpg
+0 2 132472432 135380 0 0
+/android-icon-192x192.png
+0 19 0 44460 0 0
+/web/images/products/2018_02_06_17_27_40_Layolanda _ Antonio Carrasco _ Quesero Corto PG3 .jpg
+0 1 0 112439 0 0
+/web/images/products/2018_02_19_17_09_21_Cristo_ Layolanda_ Antiguedades PD3.jpg
+0 2 0 162700 0 0
+/web/images/products/2018_02_07_16_37_57_Bandeja layolanda 3 1.jpg
+0 7 0 894198 0 0
+/web/images/products/2018_01_24_13_56_54_Layolanda _ Gina Pellón _ ST _PD1.jpg
+0 9 0 1738200 0 0
+/web/images/products/2018_02_07_19_19_53_Layolanda Antonio Carrasco Viajero Largo PG.jpg
+0 5 0 968270 0 0
+/web/images/products/2018_01_24_13_19_32_Lam 1.jpg
+0 10 0 894339 0 0
+/web/css/site.css
+0 47 0 1065162 0 0
+/web/images/products/2018_03_20_10_49_33_Blanca Suarez _ Layolanda _ 01.jpg
+0 3 0 218073 0 0
+/web/assets/b5bcc0c4/js/kv-widgets.js
+0 33 0 35013 0 0
+/web/assets/4cf3221c/langs/es.js
+0 2 0 6615 0 0
+/web/images/products/2018_03_16_19_08_14_maceta003.jpg
+0 1 0 69464 0 0
+/web/images/products/2018_03_15_18_29_09_SilfoMariaEugeniaFialloColibri003 copia.jpg
+0 4 0 227516 0 0
+/web/images/products/2018_03_15_18_45_26_SpatuletailMariaEugeniaFialloColibri005.jpg
+0 6 0 325812 0 0
+/web/images/products/2018_01_18_22_14_18_Layolanda _ Luis Molinari _ ST _ Litografía _ PD1.jpg
+0 5 0 810880 0 0
+/web/images/products/2018_02_06_18_18_15_bandeja plata layolanda 1 2.jpg
+0 1 132470592 121171 0 0
+/web/site/content
+0 26 0 485103 8 3
+/web/images/products/2018_03_16_17_18_04_Blanca Suarez _ Layolanda _ 03.jpg
+0 1 132442656 82201 0 0
+/favicon-16x16.png
+0 18 0 16506 0 0
+/web/images/products/2018_02_19_16_39_44_layolanda cerámica 1 antigüedades 3.jpg
+0 8 0 1991104 0 0
+/web/images/products/2018_01_24_14_10_40_Layolanda _ Marcos Huerta.jpg
+0 9 0 1232888 0 0
+/web/js/chosen.jquery.js
+0 34 0 1542552 0 0
+/web/images/products/2018_02_07_16_44_33_bandeja layolanda 2 1.jpg
+0 7 0 900552 0 0
+/web/images/products/2018_03_20_10_50_26_Blanca Suarez _ Layolanda _ 01 copia.jpg
+0 8 0 599824 0 0
+/web/images/products/2018_02_06_17_27_40_Layolanda _ Antonio Carrasco _ Quesero Corto PG4 .jpg
+0 1 0 129273 0 0
+/web/assets/783f5719/js/locales/es.js
+0 2 0 10140 0 0
+/web/images/products/2018_03_16_19_08_14_maceta002.jpg
+0 3 0 253707 0 0
+/web/images/products/2018_02_19_12_43_44_Calentador 01_ Layolanda_ Antiguedades PD3.jpg
+0 1 132473824 157660 0 0
+/web/images/products/2018_01_18_21_19_20_Layolanda _ Eduardo Kingman _ Sin Título _ PG.jpg
+0 1 132467360 196799 0 0
+/web/images/products/2018_03_15_18_29_09_SilfoMariaEugeniaFialloColibri002.jpg
+0 10 0 530032 0 0
+/web/images/products/2018_03_15_17_53_12_PetirrojosMariaEugeniaFialloColibri005.jpg
+0 4 0 218396 0 0
+/web/css/ekko-lightbox.css
+0 40 0 250107 0 0
+/web/assets/4397adff/plugins/preview/plugin.js
+0 2 0 15042 0 0
+/web/images/products/2018_02_06_18_18_11_bandeja plata layolanda 1 1.jpg
+0 7 0 909336 0 0
+/images/background-photo-mobile-devices.jpg
+0 16 0 468034 0 0
+/web/assets/4397adff/plugins/autolink/plugin.js
+0 2 0 9632 0 0
+/web/js/bootstrap-select.min.js
+0 35 0 1187655 0 0
+/web/assets/4397adff/plugins/fullscreen/plugin.js
+0 2 0 7804 0 0
+/web/assets/b076fe10/js/kv-export-data.js
+0 2 0 6641 0 0
+/web/admin/params/index
+0 2 0 24304 1 0
+/web/images/products/2018_02_07_19_16_49_Ulu circular _ Antonio Carrasco 4.jpg
+0 1 132474144 1270672 0 0
+/web/assets/a999f4dc/yii.validation.js
+0 11 0 170522 0 0
+/web/images/products/2018_01_24_15_25_07_Layolanda Piere Alechinsky PD4.jpg
+0 1 0 152501 0 0
+/web/assets/b076fe10/css/kv-export-data.css
+0 1 132546352 490 0 0
+/web/images/products/2018_03_15_19_38_40_Campana3MariaEugeniaFialloColibri011.jpg
+0 3 0 224901 0 0
+/web/images/products/2018_01_24_14_22_03_Layolanda _ Roland Topor _ 2 _ PD1.jpg
+0 9 0 1580824 0 0
+/web/images/logosticky.svg
+0 37 0 201687 0 0
+/web/images/products/2018_03_15_18_30_49_PG MariaEugeniaFialloColibri.jpg
+0 2 132471824 159642 0 0
+/web/images/products/2018_03_21_15_00_00_layolanda.tortuga006.colecciongalapagos.jorgeluna.jpg
+0 5 0 290306 0 0
+/web/assets/4397adff/plugins/insertdatetime/plugin.js
+0 2 0 15074 0 0
+/web/images/products/2018_03_15_18_29_09_SilfoMariaEugeniaFialloColibri001.jpg
+0 5 0 282380 0 0
+/web/images/products/2018_03_15_17_53_12_PetirrojosMariaEugeniaFialloColibri004.jpg
+0 5 0 321964 0 0
+/web/assets/4397adff/plugins/visualblocks/plugin.js
+0 2 0 5527 0 0
+/web/admin/product-has-mesure-type/update
+0 49 132465856 881104 0 0
+/web/images/products/2018_02_19_15_50_52_chimenea _ antigüedades _ layolanda.jpg
+0 7 0 1338491 0 0
+/web/images/products/2018_02_09_17_15_57__DSC1708.jpg
+0 1 0 1412746 0 0
+/web/images/products/2018_03_15_18_45_26_SpatuletailMariaEugeniaFialloColibri003.jpg
+0 6 0 358680 0 0
+/web/css/chosen.css
+0 39 0 406676 0 0
+/web/js/backgroundVideo.js
+0 32 0 369344 0 0
+/web/images/products/2018_01_24_14_35_02_Layolanda _ Sara Sánchez 2 PD3.jpg
+0 2 0 207114 0 0
+/web/images/products/foto4-d.jpg
+0 1 0 412571 0 0
+/web/images/products/2018_02_06_15_03_40_Layolanda _ Antonio Carrasco _ PD4 Jorga de mantequillos.jpg
+0 3 132555776 188085 0 0
+/web/assets/783f5719/css/fileinput.css
+0 2 0 19834 0 0
+/web/images/products/2018_02_19_16_39_44_layolanda cerámica 1 antigüedades 001.jpg
+0 1 132470768 124189 0 0
+/web/images/products/2018_03_16_17_03_04_Blanca Suarez _ Layolanda _ 01 copia.jpg
+0 1 0 77872 0 0
+/web/images/bag2.png
+0 34 0 49368 0 0
+/web/images/logo.png
+0 5 0 44320 0 0
+/web/js/jquery.sticky.js
+0 34 0 339626 0 0
+/web/js/ekko-lightbox.js
+0 37 0 861397 0 0
+/web/assets/4397adff/skins/lightgray/fonts/tinymce.woff
+0 2 0 34968 0 0
+/web/images/products/2018_01_29_18_52_22_Layolanda _ Alberto Guzmán _ 5.jpg
+0 3 0 426222 0 0
+/web/images/products/2018_01_24_15_25_07_Layolanda Piere Alechinsky PD3.jpg
+0 1 0 164777 0 0
+/web/images/lupa.png
+0 18 0 20052 0 0
+/web/images/products/2018_01_24_15_25_07_Layolanda Piere Alechinsky General.jpg
+0 1 0 176669 0 0
+/presentational-only/presentational-only.js
+0 58 0 29950 0 0
+/web/assets/4397adff/plugins/code/plugin.js
+0 2 0 10616 0 0
+/web/images/products/2018_02_19_17_00_09_layolanda cerámica 4 antigüedades 002.jpg
+0 1 132471472 188689 0 0
+/web/admin/product-has-mesure-type/index
+0 97 132465584 2669668 1 1
+/web/assets/1d22a78/img/loading.gif
+0 2 0 3698 0 0
+/web/images/products/2018_01_24_15_11_19_Layolanda _ Alberto Guzmán _ 2.jpg
+0 3 0 423996 0 0
+/web/assets/1d22a78/js/typeahead.bundle.js
+0 33 0 3077984 0 0
+/web/admin/product/view
+0 6 0 27738 0 0
+/web/images/products/2018_02_01_14_26_19_Layolanda _ Roland Topor _ 1 _ PD1.jpg
+0 10 0 1580136 0 0
+/web/css/chosen-sprite@2x.png
+0 5 0 3690 0 0
+/web/assets/4397adff/plugins/charmap/plugin.js
+0 2 0 36482 0 0
+/web/images/products/2018_01_24_14_35_02_Layolanda _ Sara Sánchez 2 PD2.jpg
+0 1 0 158386 0 0
+/favicon.ico
+0 5 0 4600 0 0
+/web/assets/913e9f6f/dist/js/bootstrap-dialog.js
+0 2 0 47658 0 0
+/web/category/artist
+0 22 0 323726 3 3
+/web/images/products/2018_03_16_18_58_38_Jorge Luna _ Layolanda Galápagos 03.jpg
+0 7 0 1175909 0 0
+/web/images/products/2018_02_07_19_19_53_Layolanda Antonio Carrasco Viajero Largo 2.jpg
+0 1 132472784 76739 0 0
+/web/images/products/2018_01_24_15_25_07_Layolanda Piere Alechinsky PD2.jpg
+0 1 0 131065 0 0
+/web/assets/1d22a78/js/typeahead-kv.js
+0 33 0 38742 0 0
+/web/images/products/2018_03_29_16_41_47_TortugaJorjeLunaGalapago Layolanda002.jpg
+0 8 0 530040 0 0
+/web/images/products/2018_02_19_12_43_43_Calentador 01_ Layolanda_ Antiguedades PG 2.jpg
+0 1 132473456 92727 0 0
+/web/images/products/2018_01_24_13_38_44_Layolanda _ Washington Iza _ St _ PD1.jpg
+0 3 0 314817 0 0
+/web/images/products/2018_01_18_22_06_30_Layolanda _ Gilberto Almeida _ Vieja _ PD.jpg
+0 5 0 353545 0 0
+/web/images/products/2018_02_19_16_47_59_layolanda cerámica 2 antigüedades 003.jpg
+0 2 132470944 210118 0 0
+/web/images/products/2018_01_24_14_18_41_Layolanda Jose Carreño ST General.jpg
+0 9 0 1315032 0 0
+/web/images/products/2018_02_19_17_00_09_layolanda cerámica 4 antigüedades 001.jpg
+0 1 132471120 264983 0 0
+/web/images/products/2018_01_18_21_19_20_Layolanda _ Eduardo Kingman _ Sin Título _ PD.jpg
+0 5 0 1946725 0 0
+/web/images/products/2018_01_24_17_41_29_Layolanda _ Antigüedades _ Juego de té _ PD2.jpg
+0 1 132583216 139965 0 0
+/web/images/products/2018_03_15_17_53_12_PetirrojosMariaEugeniaFialloColibri002.jpg
+0 11 0 756592 0 0
+/web/images/products/2018_02_06_18_01_40_Sopera_ Layolanda_ Antiguedades PD4.jpg
+0 1 132468592 175722 0 0
+/web/site/forgot
+0 2 0 36622 2 0
+/web/images/products/2018_01_24_14_35_02_Layolanda _ Sara Sánchez 2 PD1.jpg
+0 9 0 1196728 0 0
+/web/assets/4397adff/plugins/table/plugin.js
+0 2 0 283602 0 0
+/web/admin/product/index
+0 16 0 511023 1 2
+/web/images/products/2018_01_24_15_08_20_Layolanda _ Alberto Guzmán _ 1.jpg
+0 3 0 618930 0 0
+/web/images/products/2018_02_06_15_03_40_Layolanda _ Antonio Carrasco _ PG Jorga de mantequillos.jpg
+0 3 132556352 312771 0 0
+/web/images/products/2018_03_16_18_58_38_Jorge Luna _ Layolanda Galápagos 02.jpg
+0 7 0 716667 0 0
+/web/product/view
+0 233 0 4982237 126 37
+/apple-icon-144x144.png
+0 1 0 2619 0 0
+/web/images/products/2018_01_18_18_01_37_Alfonso Bonifacio _ Patatas _ Layolanda _ PG.jpg
+0 1 132467168 264672 0 0
+/web/images/products/2018_01_24_15_25_07_Layolanda Piere Alechinsky PD1.jpg
+0 10 0 1610532 0 0
+/web/images/products/2018_02_07_16_38_02_Bandeja layolanda 3 2.jpg
+0 1 0 118013 0 0
+/web/images/products/2018_03_15_17_36_26_NidoMariaEugeniaFialloColibri004.jpg
+0 2 0 177586 0 0
+/web/images/facebook.png
+0 24 0 36072 0 0
+/web/images/products/2018_01_24_15_32_40_Oswlado Viteri _ ST _ General.jpg
+0 5 0 831965 0 0
+/web/images/products/2018_02_19_16_47_59_layolanda cerámica 2 antigüedades 002.jpg
+0 8 0 1588680 0 0
+/web/assets/783f5719/js/plugins/sortable.js
+0 2 0 36466 0 0
+/web/images/products/2018_03_16_19_25_54_layolanda.tortuga015.colecciongalapagos.jorgeluna.jpg
+0 1 0 81430 0 0
+/web/images/products/2018_03_15_18_41_21_ColaLargaMariaEugeniaFialloColibri003.jpg
+0 3 0 192264 0 0
+/web/images/products/2018_03_16_18_39_18_Jorge Luna _ Layolanda Galápagos 05.jpg
+0 19 0 1623755 0 0
+/web/images/products/2018_03_15_17_53_12_PetirrojosMariaEugeniaFialloColibri001.jpg
+0 3 0 116138 0 0
+/web/images/products/2018_03_15_18_43_27_EspadaMariaEugeniaFialloColibri005.jpg
+0 2 0 126794 0 0
+/web/images/products/2018_03_16_19_14_26_Jorge Luna _ Layolanda Galápagos 02.jpg
+0 3 0 511239 0 0
+/web/assets/4397adff/plugins/paste/plugin.js
+0 2 0 73141 0 0
+/web/images/es1.svg
+0 34 0 45560 0 0
+/web/images/products/2018_03_16_17_25_57_Blanca Suarez _ Layolanda _ 01 copia.jpg
+0 1 0 74978 0 0
+/web/assets/4397adff/plugins/media/plugin.js
+0 2 0 96016 0 0
+/web/site/viewcart
+0 47 0 1176668 1 3
+/web/assets/1d22a78/js/handlebars.js
+0 34 0 3966338 0 0
+/web/assets/a999f4dc/yii.activeForm.js
+0 19 0 580320 0 0
+/web/assets/4397adff/skins/lightgray/content.min.css
+0 2 0 6654 0 0
+/web/images/products/2018_02_06_18_14_05_daga layolanda 4.jpg
+0 1 0 126839 0 0
+/web/images/products/2018_03_15_17_36_26_NidoMariaEugeniaFialloColibri003.jpg
+0 2 0 183858 0 0
+/web/images/products/2018_02_19_16_47_59_layolanda cerámica 2 antigüedades 001.jpg
+0 3 0 253740 0 0
+/web/images/products/2018_01_18_22_14_18_Layolanda _ Luis Molinari _ ST _ Litografía _ PG.jpg
+0 1 132658320 171655 0 0
+/web/admin/picture/index
+0 23 132466000 620642 0 0
+/web/images/products/foto4-d4.jpg
+0 1 0 64293 0 0
+/web/images/products/2018_03_15_18_41_21_ColaLargaMariaEugeniaFialloColibri002.jpg
+0 3 0 190707 0 0
+/web/images/products/2018_03_16_18_39_18_Jorge Luna _ Layolanda Galápagos 04.jpg
+0 2 0 396924 0 0
+/web/assets/72bf1ff0/jquery.js
+0 36 0 9271836 0 0
+/web/assets/b076fe10/js/kv-export-columns.js
+0 2 0 3898 0 0
+/web/images/products/2018_02_07_19_26_06_Layolanda _ Antonio Carrasco _ set g.jpg
+0 6 0 1067460 0 0
+/web/assets/783f5719/js/fileinput.js
+0 2 0 363368 0 0
+/web/images/instagram.png
+0 25 0 16525 0 0
+/web/images/products/2018_03_16_19_14_26_Jorge Luna _ Layolanda Galápagos 01.jpg
+0 7 0 536335 0 0
+/web/images/products/2018_02_06_17_37_31_Layolanda _ Antonio Carrasco _ Ulu general .jpg
+0 30 0 4613672 0 0
+/web/assets/4397adff/themes/modern/theme.js
+0 2 0 89828 0 0
+/web/images/products/2018_03_20_10_50_26_Blanca Suarez _ Layolanda _ 02 copia.jpg
+0 2 0 143954 0 0
+/web/images/products/2018_03_15_18_41_20_ColaLargaMariaEugeniaFialloColibri004.jpg
+0 7 0 301932 0 0
+/web/images/products/2018_01_29_19_31_12_Layolanda _ Oswaldo Viteri ST2.jpg
+0 10 0 2332863 0 0
+/web/site/search2
+0 7 0 2569 0 1
+/web/images/products/foto4.jpg
+0 1 0 0 0 0
+/web/css/chosen-sprite.png
+0 5 0 2690 0 0
+/web/images/products/2018_02_06_18_14_05_daga layolanda 3.jpg
+0 1 0 138973 0 0
+/web/assets/e8bf0d60/js/bootstrap.js
+0 2 0 139414 0 0
+/web/assets/b5bcc0c4/css/kv-widgets.css
+0 37 0 25900 0 0
+/web/images/products/2018_03_15_17_36_26_NidoMariaEugeniaFialloColibri002.jpg
+0 8 0 551145 0 0
+/images/background-photo.jpg
+0 74 0 35230324 0 0
+/web/images/products/2018_02_07_19_14_00_Layolanda Antonio Carrasco quesero largo.jpg
+0 32 0 52841568 0 0
+/web/images/products/2018_03_16_19_08_14_maceta.jpg
+0 7 0 357496 0 0
+/web/images/products/2018_02_06_18_01_42_Sopera_ Layolanda_ Antiguedades.jpg
+0 1 132469104 139531 0 0
+/web/images/products/foto4-d3.jpg
+0 1 0 129718 0 0
+/web/images/products/2018_01_18_18_08_40_Alberto Gironella _ ST _ Layolanda _ PD4.jpg
+0 1 132466624 249165 0 0
+/web/images/products/2018_03_16_18_39_18_Jorge Luna _ Layolanda Galápagos 03.jpg
+0 3 0 297369 0 0
+/web/images/products/2018_01_24_15_10_09_Layolanda _ Alberto Guzmán _ 3.jpg
+0 3 0 585816 0 0
+/web/images/products/2018_01_18_21_10_57_Casimir Laurent _ ST _ Layolanda _ PD4.jpg
+0 2 132465056 333454 0 0
+/web/css/admin.css
+0 1 132546112 1364 0 0
+/web/images/products/2018_03_16_17_03_04_Blanca Suarez _ Layolanda _ 02.jpg
+0 8 0 623792 0 0
+/web/images/products/2018_03_15_18_43_27_EspadaMariaEugeniaFialloColibri003.jpg
+0 2 0 136080 0 0
+/web/images/products/2018_02_06_18_08_02_cubiertos pg layolanda pg2.jpg
+0 1 0 105876 0 0
+/web/site/login
+0 9 0 166442 1 2
+/web/images/user.svg
+0 36 0 49212 0 0
+/web/images/tarjetas.png
+0 8 0 940024 0 0
+/web/images/products/2018_02_06_18_18_10_bandeja plata layolanda 1 3.jpg
+0 1 132469936 111919 0 0
+/web/admin/mesure/index
+0 1 132583520 23396 0 0
+/web/css/bootstrap-select.min.css
+0 35 0 212256 0 0
+/web/images/products/2018_02_19_17_09_22_Cristo_ Layolanda_ Antiguedades PD1.jpg
+0 1 132471296 91001 0 0
+/web/images/products/2018_01_24_15_18_13_Kingman 4.jpg
+0 3 0 384597 0 0
+/web/images/products/2018_03_15_17_36_26_NidoMariaEugeniaFialloColibri001.jpg
+0 3 0 191346 0 0
+/web/images/products/2018_02_06_15_03_41_Layolanda _ Antonio Carrasco _ General Jorga de mantequillos.jpg
+0 33 0 6108630 0 0
+/web/images/products/2018_03_15_12_59_12_MariaEugeniaFialloColibri005.jpg
+0 4 0 313260 0 0
+/web/images/products/2018_02_19_16_16_46_layolanda cerámica 3 antigüedades 2.jpg
+0 7 0 968814 0 0
+/web/assets/e8bf0d60/css/bootstrap.css.map
+0 1 132660768 389287 0 0
+/web/images/products/2018_01_18_18_08_40_Alberto Gironella _ ST _ Layolanda _ PD3.jpg
+0 1 132466800 177086 0 0
+/web/images/products/2018_02_07_19_27_09_REX_9546.jpg
+0 2 132474000 459638 0 0
+/web/images/products/2018_01_18_21_10_57_Casimir Laurent _ ST _ Layolanda _ PD3.jpg
+0 2 132464880 159563 0 0
+/web/images/products/2018_03_15_18_43_27_EspadaMariaEugeniaFialloColibri002.jpg
+0 2 0 159620 0 0
+/web/images/products/2018_03_15_18_45_27_SpatuletailMariaEugeniaFialloColibri002.jpg
+0 10 0 525525 0 0
+/web/images/products/2018_01_18_18_01_37_Alfonso Bonifacio _ Patatas _ Layolanda _ PD4.jpg
+0 1 132466128 0 0 0
+/web/images/products/2018_02_06_17_34_32_Layolanda _ Antonio Carrasco _ Ulito Picar.jpg
+0 30 0 6456444 0 0
+/web/images/products/2018_01_24_15_07_28_Alechinsky 3.jpg
+0 10 0 1219140 0 0
+/web/images/products/2018_02_19_12_25_15_Antiguedades _ Layolanda _ Balde de plata.jpg
+0 9 0 695133 0 0
+/web/images/products/2018_03_15_18_30_49_002 MariaEugeniaFialloColibri.jpg
+0 2 0 114660 0 0
+/web/images/products/2018_01_24_14_47_12_Layolanda _ Sara Sánchez PD4.jpg
+0 2 0 251618 0 0
+/web/category/subcategory
+0 199 0 5109603 28 26
+/web/images/artist/2018_03_13_13_50_39_gonzaloendaracrow.jpg
+0 1 0 13717 0 0
+/web/assets/7ee0cb3e/css/bootstrap-datepicker3.css
+0 2 0 45780 0 0
+/web/images/products/2018_03_15_19_38_40_Campana3MariaEugeniaFialloColibri009.jpg
+0 4 0 254116 0 0
+/web/images/products/2018_03_16_16_55_14_Blanca Suarez _ Layolanda _ 03.jpg
+0 2 0 181932 0 0
+/web/images/products/2018_01_18_21_25_39_Layolanda _ Enrique Tábara _ Nocturno _ PD4.jpg
+0 1 132467728 163166 0 0
+/web/images/products/2018_02_07_19_27_09_Layolando Antonio Carrasco Viajero corto.jpg
+0 5 0 799875 0 0
+/web/images/products/2018_03_15_12_59_12_MariaEugeniaFialloColibri004.jpg
+0 3 0 156112 0 0
+/web/assets/783f5719/img/loading.gif
+0 2 0 847 0 0
+/web/images/products/2018_01_18_18_08_40_Alberto Gironella _ ST _ Layolanda _ PD2.jpg
+0 6 0 1458020 0 0
+/web/images/products/2018_01_18_21_10_57_Casimir Laurent _ ST _ Layolanda _ PD2.jpg
+0 2 132465232 198558 0 0
+/web/assets/7ee0cb3e/js/locales/bootstrap-datepicker.es.min.js
+0 2 0 1030 0 0
+/web/images/products/2018_02_19_15_56_08_chimenea 2 _ antigüedades _ layolanda 001 .jpg
+0 7 0 2461403 0 0
+/web/images/products/2018_03_15_18_45_27_SpatuletailMariaEugeniaFialloColibri001.jpg
+0 4 0 256596 0 0
+/web/images/products/2018_01_18_18_01_37_Alfonso Bonifacio _ Patatas _ Layolanda _ PD3.jpg
+0 2 0 301306 0 0
+/web/images/products/2018_02_01_13_54_14_Layolanda_ Nicolas Svistonoff _ PA _ PD1.jpg
+0 3 0 548469 0 0
+/web/images/products/2018_01_24_14_38_19_Julio LePark PD1l.jpg
+0 9 0 1099232 0 0
+/web/images/products/2018_03_15_12_20_40_HojaMariaEugeniaFialloColibri003.jpg
+0 4 0 800128 0 0
+/web/images/products/2018_02_07_19_13_50_REX_9674.jpg
+0 1 132472288 73619 0 0
+/web/images/products/2018_03_15_18_30_49_004 MariaEugeniaFialloColibri.jpg
+0 3 0 238131 0 0
+/web/images/products/2018_01_24_14_47_12_Layolanda _ Sara Sánchez PD3.jpg
+0 1 132661424 131030 0 0
+/web/images/products/2018_02_06_17_27_41_Layolanda _ Antonio Carrasco _ Quesero Corto PG .jpg
+0 30 0 5974276 0 0
+/web/images/products/2018_03_15_18_41_20_ColaLargaMariaEugeniaFialloColibri001.jpg
+0 2 0 94502 0 0
+/web/assets/783f5719/js/plugins/purify.js
+0 2 0 30605 0 0
+/apple-icon-120x120.png
+0 2 0 4354 0 0
+/web/images/products/2018_03_15_19_38_40_Campana3MariaEugeniaFialloColibri008.jpg
+0 4 0 279808 0 0
+/web/images/products/2018_03_16_16_55_14_Blanca Suarez _ Layolanda _ 02.jpg
+0 8 0 613977 0 0
+/web/images/products/2018_02_06_17_34_29_Layolanda _ Antonio Carrasco _ Ulito Picar PD2.jpg
+0 1 132657904 113853 0 0
+/web/images/products/2018_01_18_22_09_54_Layolanda _Luis Molinari _ Multiple Percepcion Vectorial _  PD1 _ 72dpi.jpg
+0 5 0 671005 0 0
+/web/images/products/2018_01_18_21_25_39_Layolanda _ Enrique Tábara _ Nocturno _ PD3.jpg
+0 6 0 1083120 0 0
+/web/assets/4397adff/plugins/searchreplace/plugin.js
+0 2 0 45506 0 0
+/responsive-full-background-image.css
+0 60 0 63240 0 0
+/web/images/products/2018_01_24_15_32_40_Oswlado Viteri _ ST _ PD5.jpg
+0 4 0 423016 0 0
+/web/images/products/2018_02_07_19_19_52_REX_9672.jpg
+0 1 132472960 91737 0 0
+/web/images/products/2018_01_18_18_08_40_Alberto Gironella _ ST _ Layolanda _ PD1.jpg
+0 1 132467552 273609 0 0
+/web/css/blue highway bd.woff
+0 23 0 954868 0 0
+/web/assets/e8bf0d60/css/bootstrap.css
+0 38 0 5402370 0 0
+/web/images/products/2018_03_16_16_33_38_Blanca Suarez _ Layolanda _ 02.jpg
+0 8 0 614166 0 0
+/web/images/products/2018_02_19_15_50_51_chimenea _ antigüedades _ layolanda 004 .jpg
+0 1 0 141445 0 0
+/web/images/products/2018_01_24_13_51_12_Layolanda _ Varoshilov Bazante _ Ciudad PD5.jpg
+0 2 0 600356 0 0
+/web/images/products/2018_01_18_18_01_37_Alfonso Bonifacio _ Patatas _ Layolanda _ PD2.jpg
+0 5 0 755576 0 0
+/apple-icon-57x57.png
+0 1 132652016 1475 0 0
+/web/images/products/2018_03_16_18_49_26_Jorge Luna _ Layolanda Galápagos 04.jpg
+0 17 0 1258950 0 0
+/web/images/products/2018_01_24_17_32_13_Layolanda _ Antigüedades _ Juego de té _ PD1.jpg
+0 2 0 204452 0 0
+/web/assets/4397adff/plugins/lists/plugin.js
+0 2 0 89634 0 0
+/web/admin/product/update
+0 6 0 132713 1 0
+/web/images/products/2018_03_16_17_07_17_Blanca Suarez _ Layolanda _ 02.jpg
+0 9 0 466965 0 0
+/web/images/products/2018_02_06_18_08_02_cubiertos pg layolanda 1.jpg
+0 2 0 339768 0 0
+/web/images/products/2018_02_06_17_37_28_Layolanda _ Antonio Carrasco _ Ulu 2l .jpg
+0 1 0 94799 0 0
+/web/assets/7ee0cb3e/css/datepicker-kv.css
+0 2 0 1172 0 0
+/web/assets/4397adff/plugins/anchor/plugin.js
+0 2 0 12262 0 0
+/web/assets/913e9f6f/dist/css/bootstrap-dialog.css
+0 2 0 4696 0 0
+/favicon-96x96.png
+0 12 0 22644 0 0
+/web/images/products/2018_03_15_19_38_40_Campana3MariaEugeniaFialloColibri007.jpg
+0 3 0 240630 0 0
+/web/images/products/2018_03_16_16_55_14_Blanca Suarez _ Layolanda _ 01.jpg
+0 2 0 145238 0 0
+/web/images/products/2018_01_18_21_25_39_Layolanda _ Enrique Tábara _ Nocturno _ PD2.jpg
+0 1 132467920 180629 0 0
+/presentational-only/presentational-only.css
+0 59 0 224600 0 0
+/web/images/products/2018_02_19_17_09_23_Cristo_ Layolanda_ Antiguedades PD4.jpg
+0 8 0 1570569 0 0
+/web/images/products/2018_01_24_15_32_40_Oswlado Viteri _ ST _ PD2jpg.jpg
+0 4 0 703996 0 0
+/web/images/products/2018_01_24_14_27_45_Layolanda _ Jan Scheuder _ ST _ PG2.jpg
+0 3 0 552534 0 0
+/web/images/products/2018_01_24_14_43_00_Kingman 2.jpg
+0 4 0 495640 0 0
+/web/images/products/2018_01_24_15_32_40_Oswlado Viteri _ ST _ PD4.jpg
+0 5 0 547145 0 0
+/web/images/products/2018_02_07_19_26_06_Layolanda _ Antonio Carrasco _ set 2.jpg
+0 2 132473280 428140 0 0
+/web/assets/4397adff/plugins/advlist/plugin.js
+0 2 0 8028 0 0
+/web/images/products/2018_03_15_12_59_12_MariaEugeniaFialloColibri002.jpg
+0 7 0 392904 0 0
+/web/images/products/2018_03_15_18_43_28_EspadaMariaEugeniaFialloColibri001.jpg
+0 5 0 1653676 0 0
+/web/images/products/2018_01_18_22_00_49_Layolanda _ Enrique Tábara _ Verticalidad en blanco y verde _ D1.jpg
+0 6 0 892770 0 0
+/web/images/products/2018_02_06_18_08_00_cubiertos pg layolanda 2.jpg
+0 1 0 113548 0 0
+/web/images/products/2018_01_24_15_03_35_Layolanda _ Antonio Saura.jpg
+0 9 0 1491192 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip210.ip-54-36-148.eu
+0 2 1 234428 1 1522709562
+/web/site/artist
+keeper3.mxtoolbox.com
+0 2 1 1958 1 1522969497
+/
+ip218.ip-54-36-148.eu
+0 1 0 0 1 1522977175
+-
+baiduspider-180-76-15-157.crawl.baidu.com
+0 2 0 497 1 1522616293
+-
+msnbot-40-77-167-74.search.msn.com
+0 2 1 16994 1 1522884021
+/web/
+ip221.ip-54-36-148.eu
+0 1 1 22568 1 1522541909
+/web/product/view
+ip102.ip-54-36-148.eu
+0 1 1 102381 0 0
+-
+ip106.ip-54-36-148.eu
+0 1 1 21524 1 1522694124
+/web/product/view
+ip229.ip-54-36-148.eu
+0 1 1 50706 0 0
+-
+msnbot-207-46-13-159.search.msn.com
+0 1 0 497 0 0
+-
+143.186-43-211.etapanet.net
+0 1 1 22239 1 1522777768
+/web/product/view
+dsl-187-233-104-191-dyn.prod-infinitum.com.mx
+0 2 2 329174 0 0
+-
+ip17.ip-54-36-148.eu
+0 1 1 109021 0 0
+-
+ip117.ip-54-36-148.eu
+0 1 1 22239 1 1522672488
+/web/product/view
+173.252.115.8
+0 1 1 537972 0 0
+-
+msnbot-207-46-13-88.search.msn.com
+0 4 4 209822 2 1522634203
+/web/site/content
+ip20.ip-54-36-148.eu
+0 1 1 56476 0 0
+-
+ip243.ip-54-36-148.eu
+0 1 1 80491 0 0
+-
+ip124.ip-54-36-148.eu
+0 1 1 88793 0 0
+-
+ip128.ip-54-36-148.eu
+0 3 3 288836 2 1522954079
+/web/product/view
+msnbot-157-55-39-171.search.msn.com
+0 3 2 38259 2 1522892309
+/web/
+msnbot-207-46-13-57.search.msn.com
+0 1 1 21488 1 1522970399
+/web/product/view
+ip131.ip-54-36-148.eu
+0 1 1 21036 1 1522959739
+/web/product/view
+69.171.224.251
+0 1 1 537972 0 0
+-
+ip100.ip-54-36-149.eu
+0 2 2 84978 1 1522780618
+/web/product/view
+ip35.ip-54-36-148.eu
+0 1 1 136839 0 0
+-
+ip104.ip-54-36-149.eu
+0 3 3 278828 1 1522935167
+/web/product/view
+baiduspider-180-76-15-17.crawl.baidu.com
+0 1 0 497 0 0
+-
+200-7-247-206.movistar.com.ec
+0 63 9 93197 1 1522957650
+/web/
+ip42.ip-54-36-148.eu
+0 1 1 21018 1 1522633874
+/web/product/view
+baiduspider-180-76-15-20.crawl.baidu.com
+0 1 0 233 1 1522906669
+/
+ip142.ip-54-36-148.eu
+0 1 1 18652 1 1522947946
+/web/site/artist
+baiduspider-180-76-15-24.crawl.baidu.com
+0 1 1 1721 1 1522812910
+/
+ip146.ip-54-36-148.eu
+0 1 1 107267 0 0
+-
+ip19.ip-54-36-149.eu
+0 1 1 22007 1 1522828668
+/web/product/view
+ip53.ip-54-36-148.eu
+0 1 1 84580 0 0
+-
+baiduspider-180-76-15-6.crawl.baidu.com
+0 1 1 1721 1 1522755354
+/
+ip153.ip-54-36-148.eu
+0 2 2 327203 0 0
+-
+ip57.ip-54-36-148.eu
+0 1 1 21227 1 1522697111
+/web/product/view
+ip26.ip-54-36-149.eu
+0 2 2 173798 0 0
+-
+ip157.ip-54-36-148.eu
+0 2 2 39534 2 1522947785
+/web/site/artist
+google-proxy-66-249-88-23.google.com
+0 1 1 1725 1 1522938038
+/
+ip160.ip-54-36-148.eu
+0 1 1 21889 1 1522639460
+/web/product/view
+ip33.ip-54-36-149.eu
+0 3 3 62188 3 1522953804
+/web/site/viewcart
+pc-57-100-45-190.cm.vtr.net
+0 54 7 591422 1 1522585516
+/web/category/subcategory
+ip164.ip-54-36-148.eu
+0 1 1 22962 1 1522631128
+/web/product/view
+ip37.ip-54-36-149.eu
+0 2 1 59608 1 1522848998
+/web/product/view
+customer-189-217-24-65.cablevision.net.mx
+0 1 0 497 0 0
+-
+ip168.ip-54-36-148.eu
+0 1 1 54599 0 0
+-
+100-43-90-102.spider.yandex.com
+0 4 2 4440 2 1522947218
+/
+181.175.253.167
+0 736 435 27159354 4 1522959969
+/web/
+69.63.185.117
+0 1 1 537972 0 0
+-
+173.252.115.150
+0 2 1 1712 0 0
+-
+189-107-167-75.user.veloxzone.com.br
+0 1 0 497 0 0
+-
+ip71.ip-54-36-148.eu
+0 1 1 91378 0 0
+-
+173.252.90.237
+0 1 1 537972 0 0
+-
+ip171.ip-54-36-148.eu
+0 1 1 54302 0 0
+-
+ip44.ip-54-36-149.eu
+0 1 1 59780 0 0
+-
+ip48.ip-54-36-149.eu
+0 1 1 89378 0 0
+-
+ip3.ip-54-36-149.eu
+0 2 2 43726 2 1522695805
+/web/product/view
+69.63.185.121
+0 3 3 1613916 0 0
+-
+host-186-4-247-36.netlife.ec
+0 2 2 367913 0 0
+-
+69.63.185.122
+0 1 1 537972 0 0
+-
+ip7.ip-54-36-149.eu
+0 3 3 278184 0 0
+-
+ip51.ip-54-36-149.eu
+0 1 1 19538 1 1522574215
+/web/product/view
+ip182.ip-54-36-148.eu
+0 1 0 0 1 1522661075
+-
+ip59.ip-54-36-149.eu
+0 1 1 131065 0 0
+-
+66.220.155.249
+0 1 1 19959 1 1522842487
+/web/product/view
+pc-253-133-239-201.cm.vtr.net
+0 20 16 270066 1 1522829239
+/
+ip66.ip-54-36-149.eu
+0 1 1 86344 0 0
+-
+google-proxy-66-249-88-152.google.com
+0 1 1 1721 1 1522569553
+/
+host-181-199-32-236.ecua.net.ec
+0 57 1 44821 1 1522789389
+/web/
+66.220.146.31
+0 1 1 537972 0 0
+-
+92.210.152.190.static.anycast.cnt-grms.ec
+0 51 1 41839 2 1522793599
+/web/
+dynamic-ip-181550126227.cable.net.co
+0 117 114 12318864 1 1522760713
+/web/category/subcategory
+msnbot-157-55-39-15.search.msn.com
+0 2 0 740 0 0
+-
+ip84.ip-54-36-149.eu
+0 1 1 166393 0 0
+-
+173.252.97.115
+0 1 1 537972 0 0
+-
+173.252.86.71
+0 1 1 537972 0 0
+-
+173.252.88.12
+0 1 1 537972 0 0
+-
+wenrou0325.com
+0 8 1 5200 1 1522796914
+/
+216.244.66.234
+0 506 13 491494 14 1522965930
+/web/site/artist
+ip91.ip-54-36-149.eu
+0 1 1 56879 0 0
+-
+host-181-39-219-202.netlife.ec
+0 655 356 21075814 4 1522842254
+/web/product/view
+ip95.ip-54-36-149.eu
+0 1 1 170413 0 0
+-
+52.165.148.51
+0 10 9 15722 10 1522842177
+/
+crawl-66-249-75-24.googlebot.com
+0 15 11 702858 0 0
+-
+74.200.152.190.static.anycast.cnt-grms.ec
+0 1 1 202869 0 0
+-
+smartscan04.sitelock.com
+0 128 96 1362197 4 1522959592
+/web/site/artist
+181.175.251.148
+0 14 14 1496462 1 1522699026
+/web/category/subcategory
+adsl-pool2-210.metrotel.net.co
+0 2 0 742 0 0
+-
+173.252.123.35
+0 1 1 537972 0 0
+-
+baiduspider-180-76-15-138.crawl.baidu.com
+0 1 0 276 0 0
+-
+crawltxt5.bl.semrush.com
+0 1 0 497 0 0
+-
+173.252.98.81
+0 1 1 537972 0 0
+-
+ip206.ip-54-36-148.eu
+0 2 2 41614 2 1522673128
+/web/product/view
+host-186-101-186-218.netlife.ec
+0 10 7 50226 1 1522707073
+/
+169.80.85.200.static.anycast.cnt-grms.ec
+0 1 1 22116 1 1522861657
+/web/product/view
+66.220.148.24
+0 1 1 537972 0 0
+-
+host-181-199-32-173.ecua.net.ec
+0 309 247 24114901 1 1522971955
+/web/
+ip213.ip-54-36-148.eu
+0 1 1 91929 0 0
+-
+69.171.252.8
+0 2 1 538232 0 0
+-
+ip217.ip-54-36-148.eu
+0 1 1 23845 1 1522695205
+/web/category/subcategory
+msnbot-65-55-210-8.search.msn.com
+0 7 5 46287 0 0
+-
+ip220.ip-54-36-148.eu
+0 2 2 128075 0 0
+-
+ip101.ip-54-36-148.eu
+0 1 1 17671 1 1522768847
+/web/site/artist
+ip224.ip-54-36-148.eu
+0 1 1 63782 0 0
+-
+ip109.ip-54-36-148.eu
+0 1 1 141445 0 0
+-
+google-proxy-66-249-85-26.google.com
+0 3 2 35168 0 0
+-
+baiduspider-180-76-15-163.crawl.baidu.com
+0 1 0 0 1 1522749715
+-
+google-proxy-66-249-88-10.google.com
+0 7 5 42632 4 1522842017
+/
+ip12.ip-54-36-148.eu
+0 1 1 21745 1 1522581838
+/web/product/view
+ip235.ip-54-36-148.eu
+0 4 4 197898 2 1522695897
+/web/product/view
+msnbot-207-46-13-158.search.msn.com
+0 1 1 1721 1 1522747880
+/
+google-proxy-66-249-88-13.google.com
+0 4 2 20452 3 1522938040
+/web/site/login
+173.252.123.139
+0 1 1 1725 1 1522842555
+/
+ip242.ip-54-36-148.eu
+0 1 1 110229 0 0
+-
+ip123.ip-54-36-148.eu
+0 1 1 168369 0 0
+-
+ip27.ip-54-36-148.eu
+0 1 1 167987 0 0
+-
+ip246.ip-54-36-148.eu
+0 1 1 21448 1 1522645843
+/web/product/view
+ns368221.ip-94-23-31.eu
+0 2 0 994 0 0
+-
+google-proxy-66-249-88-16.google.com
+0 5 2 2651 3 1522957571
+/
+ip34.ip-54-36-148.eu
+0 1 1 20997 1 1522600362
+/web/product/view
+ip253.ip-54-36-148.eu
+0 1 1 63529 0 0
+-
+ip103.ip-54-36-149.eu
+0 1 1 18802 1 1522751228
+/web/site/artist
+google-proxy-66-249-88-85.google.com
+0 138 100 9575174 5 1522958994
+/web/
+host-181-199-75-180.ecua.net.ec
+0 312 211 23455363 12 1522967005
+/
+ip141.ip-54-36-148.eu
+0 1 1 21606 1 1522647081
+/web/product/view
+ip45.ip-54-36-148.eu
+0 2 2 190094 1 1522575368
+/web/product/view
+ip14.ip-54-36-149.eu
+0 1 1 22579 1 1522843409
+/web/product/view
+ip145.ip-54-36-148.eu
+0 1 1 21889 1 1522559998
+/web/product/view
+ip49.ip-54-36-148.eu
+0 2 2 40367 2 1522966505
+/web/product/view
+ip149.ip-54-36-148.eu
+0 1 1 21376 1 1522811511
+/web/product/view
+ip52.ip-54-36-148.eu
+0 3 3 218999 1 1522937803
+/web/product/view
+ip21.ip-54-36-149.eu
+0 3 1 96921 2 1522751518
+-
+ip152.ip-54-36-148.eu
+0 1 1 170413 0 0
+-
+ip29.ip-54-36-149.eu
+0 2 1 63397 1 1522847281
+-
+63-149-124-133.dia.static.qwest.net
+0 56 48 4996478 1 1522841585
+/
+ip63.ip-54-36-148.eu
+0 1 1 175936 0 0
+-
+ip167.ip-54-36-148.eu
+0 1 1 21869 1 1522683955
+/web/product/view
+173.252.123.181
+0 1 1 1569 0 0
+-
+ip170.ip-54-36-148.eu
+0 1 1 20933 1 1522972798
+/web/product/view
+ip78.ip-54-36-148.eu
+0 1 1 103557 0 0
+-
+ip47.ip-54-36-149.eu
+0 2 2 261029 0 0
+-
+ip2.ip-54-36-149.eu
+0 2 2 22875 2 1522833583
+/
+ip178.ip-54-36-148.eu
+0 2 2 81976 1 1522674418
+/web/site/artist
+ip6.ip-54-36-149.eu
+0 2 2 275107 0 0
+-
+host-186-101-151-158.netlife.ec
+0 1 1 165044 0 0
+-
+69.63.188.201
+0 2 2 3084 0 0
+-
+69.63.188.205
+0 2 1 538232 0 0
+-
+173.252.121.116
+0 1 1 537972 0 0
+-
+ip181.ip-54-36-148.eu
+0 1 1 21858 1 1522686344
+/web/product/view
+ip85.ip-54-36-148.eu
+0 1 1 20901 1 1522787469
+/web/product/view
+66.220.151.243
+0 1 1 537972 0 0
+-
+ip185.ip-54-36-148.eu
+0 2 2 123662 1 1522612952
+/web/product/view
+ip89.ip-54-36-148.eu
+0 1 1 168369 0 0
+-
+ip189.ip-54-36-148.eu
+0 1 1 22042 1 1522808408
+/web/product/view
+69.63.188.214
+0 1 1 1452 0 0
+-
+host-181-199-38-108.ecua.net.ec
+0 220 159 12277499 1 1522574428
+/web/category/subcategory
+ip92.ip-54-36-148.eu
+0 3 3 208237 2 1522690233
+/web/product/view
+ip61.ip-54-36-149.eu
+0 1 1 21810 1 1522764332
+/web/product/view
+ip192.ip-54-36-148.eu
+0 2 1 20869 2 1522776255
+/web/product/view
+ip96.ip-54-36-148.eu
+0 1 1 16352 1 1522699019
+/web/site/content
+ip65.ip-54-36-149.eu
+0 1 1 27117 1 1522895401
+/web/category/subcategory
+ip196.ip-54-36-148.eu
+0 2 2 493921 0 0
+-
+ip69.ip-54-36-149.eu
+0 1 1 58462 0 0
+-
+msnbot-157-55-39-36.search.msn.com
+0 3 2 39043 2 1522809951
+/web/
+host202-14-dynamic.25-79-r.retail.telecomitalia.it
+0 1 1 22239 1 1522777693
+/web/product/view
+crawl-66-249-75-139.googlebot.com
+0 25 14 288549 10 1522961916
+/web/
+ip90.ip-54-36-149.eu
+0 1 0 0 1 1522607516
+-
+google-proxy-66-249-88-25.google.com
+0 2 2 2930 1 1522842017
+/
+ip94.ip-54-36-149.eu
+0 2 2 128219 1 1522626934
+/web/product/view
+45.32.32.176.vultr.com
+0 1 1 1721 1 1522650057
+/
+msnbot-40-77-167-120.search.msn.com
+0 1 0 497 1 1522828804
+-
+msnbot-157-55-39-146.search.msn.com
+0 4 2 34010 2 1522647015
+/web/
+dsl-201-110-147-167-dyn.prod-infinitum.com.mx
+0 2 0 742 0 0
+-
+crawl-66-249-75-25.googlebot.com
+0 17 8 314381 2 1522811877
+/web/category/subcategory
+ip205.ip-54-36-148.eu
+0 1 1 21745 1 1522564645
+/web/product/view
+crawl-66-249-75-143.googlebot.com
+0 12 7 1596528 4 1522872736
+/web/site/content
+189.191.9.255
+0 2 0 742 0 0
+-
+msnbot-157-55-39-41.search.msn.com
+0 1 1 1721 1 1522800523
+/
+crawltxt4.bl.semrush.com
+0 5 0 2485 0 0
+-
+google-proxy-66-249-88-154.google.com
+0 1 1 599 0 0
+-
+ip212.ip-54-36-148.eu
+0 1 1 66254 0 0
+-
+ip216.ip-54-36-148.eu
+0 1 1 21323 1 1522595317
+/web/product/view
+baiduspider-180-76-15-155.crawl.baidu.com
+0 2 2 18633 2 1522906669
+/
+baiduspider-180-76-15-159.crawl.baidu.com
+0 1 0 497 0 0
+-
+ip100.ip-54-36-148.eu
+0 1 1 94574 0 0
+-
+ip223.ip-54-36-148.eu
+0 2 0 0 2 1522977197
+-
+ip104.ip-54-36-148.eu
+0 1 1 19195 1 1522708809
+/web/site/artist
+ip227.ip-54-36-148.eu
+0 1 1 102226 0 0
+-
+ip108.ip-54-36-148.eu
+0 1 1 125809 0 0
+-
+ip230.ip-54-36-148.eu
+0 1 1 22962 1 1522683761
+/web/product/view
+ip15.ip-54-36-148.eu
+0 1 1 20472 1 1522939249
+/web/product/view
+ip238.ip-54-36-148.eu
+0 2 1 58859 1 1522622216
+-
+66.220.146.148
+0 1 1 537972 0 0
+-
+ip119.ip-54-36-148.eu
+0 1 1 17883 1 1522957413
+/web/site/artist
+248.207.46.186.static.anycast.cnt-grms.ec
+0 224 203 13822999 2 1522793709
+/web/category/subcategory
+ip26.ip-54-36-148.eu
+0 1 1 109429 0 0
+-
+ip245.ip-54-36-148.eu
+0 1 0 0 1 1522761261
+-
+141.210.152.190.static.anycast.cnt-grms.ec
+0 1 1 251924 0 0
+-
+msnbot-207-46-13-77.search.msn.com
+0 7 4 61096 3 1522967143
+/
+ip33.ip-54-36-148.eu
+0 2 2 167893 1 1522814094
+/web/site/content
+ip133.ip-54-36-148.eu
+0 1 1 63529 0 0
+-
+ip37.ip-54-36-148.eu
+0 1 1 22054 1 1522765749
+/web/product/view
+ip137.ip-54-36-148.eu
+0 1 1 42948 0 0
+-
+msnbot-207-46-13-126.search.msn.com
+0 2 1 16994 1 1522892020
+/web/
+173.252.85.25
+0 1 1 131072 0 0
+-
+ip40.ip-54-36-148.eu
+0 1 1 21261 1 1522954947
+/web/product/view
+ip44.ip-54-36-148.eu
+0 2 2 141045 0 0
+-
+ip13.ip-54-36-149.eu
+0 1 1 20558 1 1522542241
+/web/product/view
+ip144.ip-54-36-148.eu
+0 1 1 57330 0 0
+-
+boron065.a.ahrefs.com
+0 5 0 2231 0 0
+-
+ip148.ip-54-36-148.eu
+0 1 1 18861 1 1522699473
+/web/site/artist
+msnbot-157-55-39-2.search.msn.com
+0 5 0 2485 0 0
+-
+ip51.ip-54-36-148.eu
+0 1 1 87044 0 0
+-
+ip151.ip-54-36-148.eu
+0 1 1 63894 0 0
+-
+ip24.ip-54-36-149.eu
+0 3 3 300225 1 1522588829
+/web/site/artist
+ip59.ip-54-36-148.eu
+0 2 2 85779 1 1522706250
+/web/product/view
+ip28.ip-54-36-149.eu
+0 4 2 40296 4 1522953197
+-
+static.134.94.201.195.clients.your-server.de
+0 2 2 2320 1 1522744312
+/
+ip159.ip-54-36-148.eu
+0 4 4 137625 3 1522966790
+/web/site/forgot
+183.80.85.200.static.anycast.cnt-grms.ec
+0 179 154 16330572 1 1522958791
+/web/
+google-proxy-66-249-85-25.google.com
+0 1 1 4492 0 0
+-
+ip35.ip-54-36-149.eu
+0 2 2 48949 2 1522824960
+/web/category/subcategory
+66.220.145.152
+0 1 1 22239 1 1522777127
+/web/product/view
+ip166.ip-54-36-148.eu
+0 1 1 176669 0 0
+-
+ip39.ip-54-36-149.eu
+0 3 3 447913 1 1522555686
+/web/product/view
+66.220.156.145
+0 2 2 539212 0 0
+-
+host-186-101-142-211.netlife.ec
+0 845 547 50658272 10 1522938811
+/web/
+66.220.156.148
+0 2 2 6213 1 1522777534
+/
+ip73.ip-54-36-148.eu
+0 1 1 68040 0 0
+-
+ip42.ip-54-36-149.eu
+0 1 1 69952 0 0
+-
+ip77.ip-54-36-148.eu
+0 1 1 21408 1 1522927469
+/web/product/view
+66.220.156.150
+0 4 2 7124 0 0
+-
+ip46.ip-54-36-149.eu
+0 1 1 21828 1 1522831306
+/web/product/view
+ip177.ip-54-36-148.eu
+0 2 1 81219 1 1522968288
+-
+ip9.ip-54-36-149.eu
+0 1 1 22159 1 1522954563
+/web/product/view
+ip180.ip-54-36-148.eu
+0 2 2 103121 1 1522696599
+/web/product/view
+ip84.ip-54-36-148.eu
+0 1 1 21867 1 1522665573
+/web/product/view
+ip184.ip-54-36-148.eu
+0 2 2 110636 1 1522770001
+/web/product/view
+google-proxy-66-249-88-81.google.com
+0 120 92 9349105 6 1522959159
+/web/category/subcategory
+ip57.ip-54-36-149.eu
+0 1 1 21204 1 1522574657
+/web/product/view
+ip188.ip-54-36-148.eu
+0 2 2 40897 2 1522946236
+/web/category/subcategory
+msnbot-207-46-13-131.search.msn.com
+0 2 1 1958 1 1522879690
+/
+ip60.ip-54-36-149.eu
+0 1 1 21258 1 1522700118
+/web/product/view
+ip191.ip-54-36-148.eu
+0 1 1 69952 0 0
+-
+ip95.ip-54-36-148.eu
+0 1 1 27298 1 1522773082
+/web/category/subcategory
+ip64.ip-54-36-149.eu
+0 1 1 20898 1 1522873277
+/web/product/view
+31.13.124.208
+0 1 1 537972 0 0
+-
+ip68.ip-54-36-149.eu
+0 1 0 0 1 1522853508
+-
+66.220.156.179
+0 1 1 1725 1 1522842363
+/
+host-157-100-2-155.ecua.net.ec
+0 1 1 165044 0 0
+-
+69.171.225.20
+0 1 1 537972 0 0
+-
+69.171.225.24
+0 1 1 537972 0 0
+-
+ip86.ip-54-36-149.eu
+0 1 1 80210 0 0
+-
+173.252.124.233
+0 1 1 537972 0 0
+-
+ip93.ip-54-36-149.eu
+0 1 1 20891 1 1522633274
+/web/product/view
+ip97.ip-54-36-149.eu
+0 3 3 239350 1 1522928270
+/web/product/view
+173.252.85.215
+0 1 1 131072 0 0
+-
+173.252.85.218
+0 1 1 22239 1 1522777306
+/web/product/view
+69.171.225.45
+0 1 1 66254 0 0
+-
+66.220.152.8
+0 1 1 537972 0 0
+-
+scan21.sitelock.com
+0 30 19 224333 1 1522786899
+/web/site/content
+173.252.85.220
+0 1 1 537972 0 0
+-
+173.252.122.57
+0 2 2 21528 1 1522842362
+/web/product/view
+keeper2.mxtoolbox.com
+0 6 3 5874 1 1522969516
+/
+adsl-201-185-32-239.une.net.co
+0 4 4 392125 0 0
+-
+ip200.ip-54-36-148.eu
+0 2 2 53261 2 1522870949
+/web/category/subcategory
+173.252.99.53
+0 1 1 537972 0 0
+-
+ip204.ip-54-36-148.eu
+0 1 0 0 1 1522815908
+-
+ip208.ip-54-36-148.eu
+0 1 1 78056 0 0
+-
+ip211.ip-54-36-148.eu
+0 2 1 20838 2 1522850285
+/web/product/view
+ip215.ip-54-36-148.eu
+0 1 1 21983 1 1522674669
+/web/product/view
+ip219.ip-54-36-148.eu
+0 3 2 95446 2 1522972827
+/web/category/subcategory
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 1 4492 0 0
+-
+173.252.124.25
+0 1 1 537972 0 0
+-
+host-186-4-200-137.netlife.ec
+0 475 227 20335105 2 1522957744
+/web/
+crawltxt3.bl.semrush.com
+0 5 0 2485 0 0
+-
+crawl-66-249-75-26.googlebot.com
+0 27 17 939535 6 1522959349
+/web/product/view
+185.234.218.61
+0 2 0 994 0 0
+-
+ip226.ip-54-36-148.eu
+0 2 2 121910 1 1522978891
+/web/product/view
+ip107.ip-54-36-148.eu
+0 1 1 20460 1 1522647540
+/web/product/view
+msnbot-157-55-39-224.search.msn.com
+0 1 1 607154 0 0
+-
+ec2-54-67-59-131.us-west-1.compute.amazonaws.com
+0 2 2 3446 2 1522933156
+/
+ip110.ip-54-36-148.eu
+0 1 1 20906 1 1522683588
+/web/product/view
+235.95.46.186.static.anycast.cnt-grms.ec
+0 1 1 165044 0 0
+-
+ip14.ip-54-36-148.eu
+0 1 1 21858 1 1522705826
+/web/product/view
+ip233.ip-54-36-148.eu
+0 3 3 400220 1 1522686216
+/web/product/view
+ip114.ip-54-36-148.eu
+0 2 1 21227 2 1522907910
+-
+ip18.ip-54-36-148.eu
+0 1 0 0 1 1522551263
+-
+253.210.152.190.static.anycast.cnt-grms.ec
+0 1 1 22239 1 1522778147
+/web/product/view
+ip21.ip-54-36-148.eu
+0 2 2 72121 1 1522693800
+/web/site/artist
+ip240.ip-54-36-148.eu
+0 1 1 19197 1 1522618567
+/web/site/artist
+66.220.152.101
+0 1 1 537972 0 0
+-
+ip244.ip-54-36-148.eu
+0 1 1 107267 0 0
+-
+ip125.ip-54-36-148.eu
+0 1 1 1721 1 1522620948
+/
+ip129.ip-54-36-148.eu
+0 1 1 77237 0 0
+-
+baiduspider-180-76-15-10.crawl.baidu.com
+0 1 1 16908 1 1522616294
+/web/
+hydrogen044.a.ahrefs.com
+0 1 1 291604 0 0
+-
+ip36.ip-54-36-148.eu
+0 3 2 42902 3 1522976077
+/web/product/view
+ip255.ip-54-36-148.eu
+0 1 1 21529 1 1522960489
+/web/product/view
+ip136.ip-54-36-148.eu
+0 1 1 21503 1 1522848322
+/web/product/view
+ip105.ip-54-36-149.eu
+0 2 2 69916 2 1522711390
+/web/site/content
+baiduspider-180-76-15-18.crawl.baidu.com
+0 1 0 497 0 0
+-
+173.252.124.69
+0 1 1 66254 0 0
+-
+ip43.ip-54-36-148.eu
+0 1 1 160720 0 0
+-
+ip12.ip-54-36-149.eu
+0 1 1 141064 0 0
+-
+google-proxy-66-249-88-153.google.com
+0 4 3 22737 1 1522569569
+/web/
+ip50.ip-54-36-148.eu
+0 1 1 18311 1 1522882531
+/web/site/forgot
+41.190-155-8.uio.satnet.net
+0 48 8 590267 1 1522797786
+/
+ip150.ip-54-36-148.eu
+0 1 1 162892 0 0
+-
+190.232.161.97
+0 1 0 497 0 0
+-
+ip54.ip-54-36-148.eu
+0 1 1 103220 0 0
+-
+66.220.152.131
+0 1 1 1725 1 1522842488
+/
+baiduspider-180-76-15-7.crawl.baidu.com
+0 1 1 1725 1 1522931166
+/
+ip23.ip-54-36-149.eu
+0 3 3 167693 2 1522681185
+/web/product/view
+ip58.ip-54-36-148.eu
+0 3 3 129460 2 1522912456
+/web/product/view
+66.220.152.136
+0 2 2 2242 0 0
+-
+66.220.152.137
+0 3 2 539735 0 0
+-
+ip158.ip-54-36-148.eu
+0 1 1 20625 1 1522780588
+/web/product/view
+ip61.ip-54-36-148.eu
+0 1 1 20869 1 1522769884
+/web/product/view
+66.220.152.141
+0 1 1 661 0 0
+-
+ip165.ip-54-36-148.eu
+0 1 1 20176 1 1522758594
+/web/product/view
+ip69.ip-54-36-148.eu
+0 1 1 87374 0 0
+-
+ip38.ip-54-36-149.eu
+0 1 1 80491 0 0
+-
+b5d538a3.virtua.com.br
+0 1 0 497 0 0
+-
+203-217-0-61.cloud.iinet.net.au
+0 26 10 239574 1 1522848598
+/web/category/subcategory
+173.252.92.27
+0 1 1 537972 0 0
+-
+ip41.ip-54-36-149.eu
+0 1 1 103557 0 0
+-
+ip76.ip-54-36-148.eu
+0 1 1 22532 1 1522641685
+/web/product/view
+ip49.ip-54-36-149.eu
+0 1 1 99371 0 0
+-
+ip4.ip-54-36-149.eu
+0 1 0 0 1 1522852786
+-
+msnbot-207-46-13-112.search.msn.com
+0 2 1 16989 1 1522809827
+/web/
+dvc-34-185-101-190.movil.vtr.net
+0 59 7 593907 1 1522601265
+/web/
+ip83.ip-54-36-148.eu
+0 1 1 79821 0 0
+-
+66.220.152.160
+0 1 1 1725 1 1522842555
+/
+ip183.ip-54-36-148.eu
+0 1 1 75075 0 0
+-
+host-181-199-38-51.ecua.net.ec
+0 97 94 12237732 1 1522757634
+/web/category/subcategory
+ip187.ip-54-36-148.eu
+0 1 1 18495 1 1522809459
+/web/site/artist
+66.220.152.169
+0 1 1 537972 0 0
+-
+ip190.ip-54-36-148.eu
+0 3 3 105597 2 1522735477
+/web/product/view
+ip63.ip-54-36-149.eu
+0 4 3 129692 3 1522972044
+/web/product/view
+ip194.ip-54-36-148.eu
+0 2 2 607822 1 1522620073
+/web/product/view
+ip67.ip-54-36-149.eu
+0 2 2 179404 1 1522759353
+/web/product/view
+42.115.74.97
+0 1 1 1721 1 1522578294
+/
+69.63.188.102
+0 1 1 537972 0 0
+-
+ip74.ip-54-36-149.eu
+0 1 1 18023 1 1522767385
+/web/site/artist
+66.220.152.185
+0 1 1 21322 1 1522759433
+/web/product/view
+ip78.ip-54-36-149.eu
+0 1 1 19462 1 1522898535
+/web/site/artist
+190.95.131.208
+0 1 1 22239 1 1522778162
+/web/product/view
+crawl-66-249-75-141.googlebot.com
+0 18 10 363097 1 1522583032
+/web/category/subcategory
+123.143.201.76
+0 10 6 552786 1 1522867332
+/
+google-proxy-66-249-85-24.google.com
+0 4 3 8352 1 1522954401
+/
+ip81.ip-54-36-149.eu
+0 3 3 130078 2 1522902035
+/web/product/view
+ip85.ip-54-36-149.eu
+0 1 1 99123 0 0
+-
+msnbot-40-77-167-131.search.msn.com
+0 2 2 3442 1 1522706286
+/
+ip92.ip-54-36-149.eu
+0 1 0 0 1 1522555931
+-
+69.171.240.120
+0 1 1 22239 1 1522777304
+/web/product/view
+173.252.92.210
+0 1 1 537972 0 0
+-
+189.83.85.200.static.anycast.cnt-grms.ec
+0 52 49 4880828 1 1522856551
+/web/product/view
+google-proxy-66-249-88-83.google.com
+0 130 98 11400055 4 1522959116
+/web/category/subcategory
+ip203.ip-54-36-148.eu
+0 1 1 42948 0 0
+-
+msnbot-40-77-167-65.search.msn.com
+0 2 1 17005 1 1522683567
+/web/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ip218.ip-54-36-148.eu
+0 1 0 0 1 1522977175
+-
+216.244.66.234
+0 14 0 5688 0 0
+-
+ip100.ip-54-36-148.eu
+0 1 1 94574 0 0
+-
+ip223.ip-54-36-148.eu
+0 1 0 0 1 1522977197
+-
+ip86.ip-54-36-149.eu
+0 1 1 80210 0 0
+-
+ip219.ip-54-36-148.eu
+0 1 0 12357 1 1522972827
+/web/category/subcategory
+ip226.ip-54-36-148.eu
+0 1 1 20893 1 1522978891
+/web/product/view
+ip36.ip-54-36-148.eu
+0 1 1 20848 1 1522976077
+/web/product/view
+ip83.ip-54-36-148.eu
+0 1 1 79821 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 1600
+http://www.layolanda.com/web/categoria
+1 50
+http://layolanda.com/web/css/site.css
+1 5
+http://layolanda.com/web/admin/product-has-mesure-type/view
+1 43
+http://layolanda.com/web/admin/product/index
+1 33
+http://layolanda.com/web/site/artist
+1 16
+http://layolanda.com/web/category/subcategory
+1 585
+http://layolanda.com/web/site/content
+1 8
+http://www.layolanda.com/web/
+1 1050
+http://m.facebook.com
+0 11
+http://m.facebook.com/
+0 1
+http://www.layolanda.com/presentational-only/presentational-only.css
+1 91
+http://layolanda.com/web/site/login
+1 2
+http://layolanda.com/web/admin/picture/index
+1 119
+http://layolanda.com/web/site/setlang
+1 1
+http://layolanda.com/web/admin/product/update
+1 87
+https://translate.googleusercontent.com/translate_c
+0 5
+http://layolanda.com/web/site/viewcart
+1 38
+http://layolanda.com/web/admin/params/index
+1 3
+http://layolanda.com/web/admin
+1 28
+http://layolanda.com/web/assets/783f5719/css/fileinput.css
+1 1
+http://www.layolanda.com/web/css/site.css
+1 13
+http://layolanda.com/web/product/view
+1 137
+http://layolanda.com/web/category
+1 1
+http://layolanda.com/web/admin/product/view
+1 6
+http://layolanda.com/responsive-full-background-image.css
+1 10
+android-app://com.google.android.googlequicksearchbox
+0 3
+http://www.mercantil.com
+0 1
+http://www.layolanda.com/web/site/artist
+1 22
+http://www.layolanda.com/web/site/setlang
+1 1
+http://www.layolanda.com/web/category/subcategory
+1 540
+http://layolanda.com/web/
+1 774
+http://www.layolanda.com/responsive-full-background-image.css
+1 26
+http://www.google.com/url
+0 79
+http://www.layolanda.com/web/category/artist
+1 20
+http://layolanda.com/web/css/chosen.css
+1 2
+https://search.yahoo.com/
+0 9
+http://www.layolanda.com/web/product/view
+1 225
+https://www.google.com/
+0 1
+http://www.layolanda.com/web/css/chosen.css
+1 8
+https://www.google.com.ec/
+0 14
+http://www.layolanda.com/web/site/login
+1 2
+http://layolanda.com/wp-login.php
+1 5
+http://layolanda.com/web/admin/mesure/index
+1 1
+http://www.layolanda.com/web/assets/1d22a78/css/typeahead-kv.css
+1 1
+http://layolanda.com/web/admin/product-has-mesure-type/update
+1 97
+http://layolanda.com/web/assets/1d22a78/css/typeahead-kv.css
+1 1
+https://www.google.com.mx/
+0 2
+http://layolanda.com/presentational-only/presentational-only.css
+1 22
+http://www.layolanda.com/sss
+1 1
+http://layolanda.com/web/category/artist
+1 8
+http://layolanda.com/
+1 118
+http://www.layolanda.com/
+1 308
+http://layolanda.com/web/assets/e8bf0d60/css/bootstrap.css
+1 1
+http://layolanda.com/web/admin/product/delete
+1 2
+http://www.layolanda.com/web/site/viewcart
+1 22
+http://www.google.com/
+0 18
+http://layolanda.com/web/admin/product-has-mesure-type/index
+1 109
+http://layolanda.com/web/assets/4397adff/skins/lightgray/skin.min.css
+1 1
+# End Of Table - referrers
+# -agents- 
+WhatsApp/2.17.395 A
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 8
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 11
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
+0 249
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G36 Saf
+0 33
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 4
+WhatsApp/2.18.31 i
+0 2
+Googlebot-Image/1.0
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 354
+Safari/13604.5.6 CFNetwork/893.13.1 Darwin/17.4.0 (x86_64)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 48
+Mozilla/5.0 (Linux; Android 6.0.1; MotoG3 Build/MPIS24.107-55-2-17) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.1
+0 136
+Opera/9.27
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FB
+0 51
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 362
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 132
+MobileSafari/604.1 CFNetwork/894 Darwin/17.4.0
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+0 50
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 2
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; 125LA; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI Y550-L03 Build/HuaweiY550-L03) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3
+0 51
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0,gzip(gfe)
+0 6
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925I Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile 
+0 131
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 227
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/65.0.3325.152 Mobile/15
+0 49
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15
+0 108
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 89
+Mozilla/5.0 (Linux; Android 7.0; VTR-L09 Build/HUAWEIVTR-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mob
+0 20
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 50
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 3
+Mozilla/5.0+(compatible; MxToolbox/Beta7; http://www.mxtoolbox.com/)
+0 8
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 283
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0
+0 150
+Mozilla/5.0 (Linux; Android 6.0.1; MotoG3 Build/MPIS24.107-55-2-17; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 S
+0 281
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 674
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 79
+Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/165.0.
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 192
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G570M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile 
+0 110
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 4
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 45
+Mozilla/5.0 (Linux; Android 6.0; MotoG3 Build/MPI24.65-33.1-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mo
+0 8
+python-requests/2.10.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 60
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 262
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/62.0.3202.94 Chrome/62.0.3202.94 Safar
+0 93
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+0 1
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 506
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 977
+Mozilla/5.0 (Linux; Android 7.0; WAS-LX3 Build/HUAWEIWAS-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mob
+0 75
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 164
+python-requests/2.9.0
+0 8
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 79
+MobileSafari/604.1 CFNetwork/897.15 Darwin/17.5.0
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2
+facebookexternalhit/1.1
+0 6
+Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+0 11
+Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 18
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

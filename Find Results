@@ -1,0 +1,94 @@
+Searching 14027 files for "Yii::$app->language=="en_EN""
+
+/Users/franklinpaulaaguirre/Sites/layolanda/models/Artist.php:
+   35              switch($name){
+   36                  case 'description':
+   37:                     if(Yii::$app->language=="en_EN"){
+   38                          return $this->description_en;
+   39                      }
+
+/Users/franklinpaulaaguirre/Sites/layolanda/models/Category.php:
+   43              switch($name){
+   44                  case 'description':
+   45:                     if(Yii::$app->language=="en_EN"){
+   46                          return $this->description_en;
+   47                      }
+   ..
+   91       */
+   92      public function getDescriptiont() {
+   93:         if(Yii::$app->language=="en_EN"){
+   94              return $this->description_en;
+   95          }
+
+/Users/franklinpaulaaguirre/Sites/layolanda/models/Content.php:
+   29              switch($name){
+   30                  case 'description':
+   31:                     if(Yii::$app->language=="en_EN"){
+   32                          return $this->description_en;
+   33                      }
+   ..
+   37                      break;
+   38                  case 'title':
+   39:                     if(Yii::$app->language=="en_EN"){
+   40                          return $this->title_en;
+   41                      }
+   ..
+   62       */
+   63      public function getTitlet() {
+   64:         if(Yii::$app->language=="en_EN"){
+   65              return $this->title_en;
+   66          }
+   ..
+   71      }
+   72      public function getDescriptiont() {
+   73:         if(Yii::$app->language=="en_EN"){
+   74              return $this->description_en;
+   75          }
+
+/Users/franklinpaulaaguirre/Sites/layolanda/models/Flowing.php:
+   31              switch($name){
+   32                  case 'description':
+   33:                     if(Yii::$app->language=="en_EN"){
+   34                          return $this->description_en;
+   35                      }
+
+/Users/franklinpaulaaguirre/Sites/layolanda/models/Material.php:
+   31              switch($name){
+   32                  case 'description':
+   33:                     if(Yii::$app->language=="en_EN"){
+   34                          return $this->description_en;
+   35                      }
+
+/Users/franklinpaulaaguirre/Sites/layolanda/models/Product.php:
+   44              switch($name){
+   45                  case 'description':
+   46:                     if(Yii::$app->language=="en_EN"){
+   47                          return $this->description_en;
+   48                      }
+   ..
+   52                      break;
+   53                      case 'support':
+   54:                     if(Yii::$app->language=="en_EN"){
+   55                          return $this->support_en;
+   56                      }
+
+/Users/franklinpaulaaguirre/Sites/layolanda/models/Technique.php:
+   27              switch($name){
+   28                  case 'description':
+   29:                     if(Yii::$app->language=="en_EN"){
+   30                          return $this->description_en;
+   31                      }
+
+/Users/franklinpaulaaguirre/Sites/layolanda/models/Type.php:
+   28              switch($name){
+   29                  case 'description':
+   30:                     if(Yii::$app->language=="en_EN"){
+   31                          return $this->description_en;
+   32                      }
+   ..
+   36                      break;
+   37                  case 'title':
+   38:                     if(Yii::$app->language=="en_EN"){
+   39                          return $this->title_en;
+   40                      }
+
