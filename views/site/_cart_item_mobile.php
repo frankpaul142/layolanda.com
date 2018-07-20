@@ -18,10 +18,8 @@ use yii\helpers\Url;
         <?php } ?>
   </div>
   <div class="product-removal col-xs-2 padding-0">
-    <a href="<?= Url::to(['site/removefromcart','id'=>$position->id]) ?>">
-      <button class="remove-product">
+    <a class="remove-product" href="<?= Url::to(['site/removefromcart','id'=>$position->id]) ?>">
         Eliminar
-      </button>
     </a>
   </div>
   <div class="product-line-price col-xs-2 padding-0">$<?= number_format((float)($position->getPrice()*$position->quantity)+($position->getPrice()*$position->quantity*0.12), 2, '.', '') ?></div>

@@ -1425,3 +1425,10 @@ div.well{
   width: 30%;
   text-align: right;
 }
+.remove-product{
+    background: white !important;
+    color: black !important;
+    border: 1px solid black !important;
+    padding: 1px 7px 2px;
+    font-size: 12px;
+}
