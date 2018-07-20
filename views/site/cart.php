@@ -96,108 +96,141 @@ JS;
 $this->registerJs($script,View::POS_END);
 AppAsset::register($this);
 ?>
- <section  class="row">
-    <?= $this->render('sidebar') ?>
+<section  class="row">
+  <?= $this->render('sidebar') ?>
   <div class="Absolute-Center is-Responsive">
-	<div class="cont-titulos" style="text-align: center;">
-    	<h3><?= Yii::t('bag', 'Shopping Cart') ?></h3>
-	</div>
+  	<div class="cont-titulos" style="text-align: center;">
+      	<h3><?= Yii::t('bag', 'Shopping Cart') ?></h3>
+  	</div>
     <div class="cont-formulario">
-    	     <?php $form = ActiveForm::begin(['action' => ['shop/paypal'],'options' => ['method' => 'post']]); ?>
-            <div class="table-responsive">
-   		<table class="table table-sm table-responsive">
-            <thead>
+      <?php $form = ActiveForm::begin(['action' => ['shop/paypal'],'options' => ['method' => 'post']]); ?>
+      <div class="table-responsive hidden-xs">
+    		<table class="table">
+          <thead>
+            <tr>
+              <th><?= Yii::t('bag', 'Product') ?></th>
+              <th><?= Yii::t('bag', 'Description') ?></th>
+              <th><?= Yii::t('bag', 'Quantity') ?></th>
+              <th><?= Yii::t('bag', 'Unit Price') ?></th>
+              <th><?= Yii::t('bag', 'Value') ?></th>
+              <th><?= Yii::t('bag', 'Delete') ?></th>
+            </tr>
+          </thead>
+          <tbody>
+            <?php
+              foreach(Yii::$app->cart->positions as $position){
+                echo $this->render('_cart_item',['position'=>$position]);
+              }
+            ?>      
+          </tbody>
+          <tfoot>
+    <!--                 <tr>
+              <th colspan="4">
+              <?= Yii::t('bag', 'Shipping') ?>:
+              </th>
+              <td  style="text-align: right;" id="shipping2">
+              $<?= $shipping ?>
+              </td>
+              <td></td>
+              </tr> -->
               <tr>
-                <th><?= Yii::t('bag', 'Product') ?></th>
-                <th><?= Yii::t('bag', 'Description') ?></th>
-                <th><?= Yii::t('bag', 'Quantity') ?></th>
-                <th><?= Yii::t('bag', 'Unit Price') ?></th>
-                <th><?= Yii::t('bag', 'Value') ?></th>
-                <th><?= Yii::t('bag', 'Delete') ?></th>
+              <th colspan="4">
+              Subtotal:
+              </th>
+              <td  style="text-align: right;" id="subtotal2">
+              $<?= Yii::$app->cart->getCost(true) ?>
+              </td>
+              <td></td>
               </tr>
-            </thead>
-        </div>
-        <tbody>
-        <?php
-   foreach(Yii::$app->cart->positions as $position){
-          echo $this->render('_cart_item',['position'=>$position]);
-        }
- ?>      
-            </tbody>
-            <tfoot>
-<!--                 <tr>
-                <th colspan="4">
-                <?= Yii::t('bag', 'Shipping') ?>:
-                </th>
-                <td  style="text-align: right;" id="shipping2">
-                $<?= $shipping ?>
-                </td>
-                <td></td>
-                </tr> -->
-                <tr>
-                <th colspan="4">
-                Subtotal:
-                </th>
-                <td  style="text-align: right;" id="subtotal2">
-                $<?= Yii::$app->cart->getCost(true) ?>
-                </td>
-                <td></td>
-                </tr>
-                <tr>
-                <th colspan="4">
-                iva(12%):
-                </th>
-                <td  style="text-align: right;" id="subtotal2">
-                $<?= $impuesto ?>
-                </td>
-                <td></td>
-                </tr>
-                <tr>
-                <th colspan="4">
-                Total:
-                </th>
-                <td  style="text-align: right;" id="subtotal2">
-                $<?= Yii::$app->cart->getCost(true)+$impuesto+$shipping ?>
-                </td>
-                <td></td>
-                </tr>
-            </tfoot>
+              <tr>
+              <th colspan="4">
+              IVA(12%):
+              </th>
+              <td  style="text-align: right;" id="subtotal2">
+              $<?= $impuesto ?>
+              </td>
+              <td></td>
+              </tr>
+              <tr>
+              <th colspan="4">
+              Total:
+              </th>
+              <td  style="text-align: right;" id="subtotal2">
+              $<?= Yii::$app->cart->getCost(true)+$impuesto+$shipping ?>
+              </td>
+              <td></td>
+              </tr>
+          </tfoot>
         </table>
+      </div>
+      <div class="shopping-cart visible-xs">
+
+        <div class="column-labels">
+          <label class="product-image"><?= Yii::t('bag', 'Product') ?></label>
+          <label class="product-details"><?= Yii::t('bag', 'Description') ?></label>
+          <label class="product-price"><?= Yii::t('bag', 'Unit Price') ?></label>
+          <label class="product-quantity"><?= Yii::t('bag', 'Quantity') ?></label>
+          <label class="product-removal"><?= Yii::t('bag', 'Delete') ?></label>
+          <label class="product-line-price"><?= Yii::t('bag', 'Value') ?></label>
         </div>
+        <?php
+          foreach(Yii::$app->cart->positions as $position){
+            echo $this->render('_cart_item_mobile',['position'=>$position]);
+          }
+        ?>  
+        <div class="totals row">
+          <div class="totals-item">
+            <label>Subtotal: </label>
+            <div class="totals-value" id="cart-subtotal">$<?= Yii::$app->cart->getCost(true) ?></div>
+          </div>
+          <div class="totals-item">
+            <label>IVA (12%): </label>
+            <div class="totals-value" id="cart-tax">$<?= $impuesto ?></div>
+          </div>
+<!--           <div class="totals-item">
+            <label>Shipping</label>
+            <div class="totals-value" id="cart-shipping">15.00</div>
+          </div> -->
+          <div class="totals-item totals-item-total">
+            <label>Total: </label>
+            <div class="totals-value" id="cart-total"> $<?= Yii::$app->cart->getCost(true)+$impuesto+$shipping ?></div>
+          </div>
+        </div>
+      </div>
       <input id="subtotal" type="hidden" name="subtotal" value="<?= Yii::$app->cart->getCost(true)+$impuesto+$shipping ?>" />
       <input id="shipping" type="hidden" name="shipping" value="<?= $shipping ?>" />
-       	<?php if(!Yii::$app->user->isGuest): ?>
+     	<?php if(!Yii::$app->user->isGuest): ?>
         <div id="cont-direccion">
-            <div class="direc-50">
-                <h3><?= Yii::t('bag', 'Choose delivery information') ?>:</h3>
-                <select id="delivery_id" name="delivery" class="selectpicker" data-style="combo-select" >
-                    <option value="" disabled><?= Yii::t('bag', 'Select Option') ?></option>
-                    <?php foreach(Yii::$app->user->identity->deliveryAddresses as $k => $delivery):
-                        if($k==0){
-                            $address= $delivery->address_line_1." ".$delivery->address_line_2;
-                            $number= $delivery->zip;
-                            $city = $delivery->city;
-                            $sector= $delivery->country->country_name;
-                        }   
-                     ?>
-                    <option value="<?= $delivery->id ?>" zone="<?= $delivery->country->zone ?>"><?= $delivery->zip ?></option>
-                    <?php endforeach; ?>
-                </select>
-                <div class="info-faturacion">
-                <?php foreach(Yii::$app->user->identity->deliveryAddresses as $k => $delivery): ?>
-                  <?php if($k!=0){ $display2="none"; }  ?>
+          <div class="direc-50">
+              <h3><?= Yii::t('bag', 'Choose delivery information') ?>:</h3>
+              <select id="delivery_id" name="delivery" class="selectpicker" data-style="combo-select" >
+                  <option value="" disabled><?= Yii::t('bag', 'Select Option') ?></option>
+                  <?php foreach(Yii::$app->user->identity->deliveryAddresses as $k => $delivery):
+                      if($k==0){
+                          $address= $delivery->address_line_1." ".$delivery->address_line_2;
+                          $number= $delivery->zip;
+                          $city = $delivery->city;
+                          $sector= $delivery->country->country_name;
+                      }   
+                   ?>
+                  <option value="<?= $delivery->id ?>" zone="<?= $delivery->country->zone ?>"><?= $delivery->zip ?></option>
+                  <?php endforeach; ?>
+              </select>
+              <div class="info-faturacion">
+              <?php foreach(Yii::$app->user->identity->deliveryAddresses as $k => $delivery): ?>
+                <?php if($k!=0){ $display2="none"; }  ?>
+                
+                  <div class="infod-<?= $delivery->id ?>" style="display:<?= $display2; ?>">
+                      <strong><?= Yii::t('bag', 'Address') ?>:</strong><div id="billing_address"><?= $delivery->address_line_1." ".$delivery->address_line_2 ?>.</div>
+                      <strong><?= Yii::t('bag', 'Zip Code') ?>:</strong><div id="billing_number"><?= $delivery->zip ?></div>
+                      <strong><?= Yii::t('bag', 'City') ?>:</strong><div id="billing_city"><?= $delivery->city ?></div>
+                      <strong><?= Yii::t('bag', 'Country') ?>:</strong><div id="billing_sector"><?= $delivery->country->country_name ?></div>
+                  </div>
                   
-                    <div class="infod-<?= $delivery->id ?>" style="display:<?= $display2; ?>">
-                        <strong><?= Yii::t('bag', 'Address') ?>:</strong><div id="billing_address"><?= $delivery->address_line_1." ".$delivery->address_line_2 ?>.</div>
-                        <strong><?= Yii::t('bag', 'Zip Code') ?>:</strong><div id="billing_number"><?= $delivery->zip ?></div>
-                        <strong><?= Yii::t('bag', 'City') ?>:</strong><div id="billing_city"><?= $delivery->city ?></div>
-                        <strong><?= Yii::t('bag', 'Country') ?>:</strong><div id="billing_sector"><?= $delivery->country->country_name ?></div>
-                    </div>
-                    
-                <?php endforeach; ?>
-                    <span><?= Yii::t('bag', 'If you do not have Delivery address') ?>. <a href="<?= Url::to(['user/address']) ?>"><?= Yii::t('bag', 'Come Here') ?></a></span>
-                </div>
-            </div>
+              <?php endforeach; ?>
+                  <span><?= Yii::t('bag', 'If you do not have Delivery address') ?>. <a href="<?= Url::to(['user/address']) ?>"><?= Yii::t('bag', 'Come Here') ?></a></span>
+              </div>
+          </div>
         	<div class="direc-50">
             	<h3><?= Yii::t('bag', 'Choose billing information') ?>:</h3>
                 <select id="billing_id" name="billing" class="selectpicker" data-style="combo-select" >
@@ -222,22 +255,23 @@ AppAsset::register($this);
                 </div>
             </div>
 
-                    <h3><?= Yii::t('bag', 'Observation') ?>:</h3>
-        <textarea name="observation" rows="4" cols="50" style="width:100%" placeholder="<?= Yii::t('bag', 'Any extra explanation or requirements you may need can be written here.') ?>"></textarea>
+            <h3><?= Yii::t('bag', 'Observation') ?>:</h3>
+            <textarea name="observation" rows="4" cols="50" style="width:100%" placeholder="<?= Yii::t('bag', 'Any extra explanation or requirements you may need can be written here.') ?>"></textarea>
         </div>
-    <?php endif; ?>
-		<div class="cont-fpago">
-        <p><?= Yii::t('bag', 'By continuing you are accepting shipping and privacy policies.') ?></p>
-        <p>Después de su compra, en un plazo de tres días laborables le enviaremos un mail con la tarifa de envío y tiempo de entrega de su pedido.</p>
-        <h3><?= Yii::t('bag', 'Pay With') ?>:</h3>
-       
-        	<a id="paypal" href="#" class="btn-pago"><img class="paylogo" src="<?= URL::base() ?>/images/tarjetas.png" /></a>
-               
-        </div>
-        	<!-- <input type="submit" value="PAGAR AHORA"/> -->
-            <?php ActiveForm::end(); ?>
-        </div>
+      <?php endif; ?>
+  		<div class="cont-fpago">
+          <p><?= Yii::t('bag', 'By continuing you are accepting shipping and privacy policies.') ?></p>
+          <p>Después de su compra, en un plazo de tres días laborables le enviaremos un mail con la tarifa de envío y tiempo de entrega de su pedido.</p>
+          <h3><?= Yii::t('bag', 'Pay With') ?>:</h3>
+         
+          	<a id="paypal" href="#" class="btn-pago"><img class="paylogo" src="<?= URL::base() ?>/images/tarjetas.png" /></a>
+                 
+      </div>
+          	<!-- <input type="submit" value="PAGAR AHORA"/> -->
+      <?php ActiveForm::end(); ?>
+          
     </div>
+  </div>
 </section>
 
 
